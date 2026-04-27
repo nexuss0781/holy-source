@@ -1,0 +1,56 @@
+.class Lorg/sil/app/android/scripture/r/u$v;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements Li/a/a/a/a/c0/k;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingMethod;
+    value = Lorg/sil/app/android/scripture/r/u;->v2(I)V
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x0
+    name = null
+.end annotation
+
+
+# instance fields
+.field final synthetic a:Lorg/sil/app/android/scripture/r/u;
+
+
+# direct methods
+.method constructor <init>(Lorg/sil/app/android/scripture/r/u;)V
+    .locals 0
+
+    iput-object p1, p0, Lorg/sil/app/android/scripture/r/u$v;->a:Lorg/sil/app/android/scripture/r/u;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public a(Li/a/a/a/a/c0/i;IZ)V
+    .locals 0
+
+    return-void
+.end method
+
+.method public b(Li/a/a/a/a/c0/i;Li/a/a/b/a/d/r;)V
+    .locals 0
+
+    sget-object p1, Li/a/a/b/a/d/r;->c:Li/a/a/b/a/d/r;
+
+    if-ne p2, p1, :cond_0
+
+    iget-object p1, p0, Lorg/sil/app/android/scripture/r/u$v;->a:Lorg/sil/app/android/scripture/r/u;
+
+    invoke-static {p1}, Lorg/sil/app/android/scripture/r/u;->y1(Lorg/sil/app/android/scripture/r/u;)V
+
+    :cond_0
+    return-void
+.end method
