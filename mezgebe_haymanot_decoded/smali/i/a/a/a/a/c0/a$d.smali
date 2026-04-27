@@ -1,0 +1,84 @@
+.class Li/a/a/a/a/c0/a$d;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements Landroid/view/View$OnClickListener;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingMethod;
+    value = Li/a/a/a/a/c0/a;->onCreateView(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x0
+    name = null
+.end annotation
+
+
+# instance fields
+.field final synthetic a:Li/a/a/a/a/c0/a;
+
+
+# direct methods
+.method constructor <init>(Li/a/a/a/a/c0/a;)V
+    .locals 0
+
+    iput-object p1, p0, Li/a/a/a/a/c0/a$d;->a:Li/a/a/a/a/c0/a;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public onClick(Landroid/view/View;)V
+    .locals 1
+
+    iget-object p1, p0, Li/a/a/a/a/c0/a$d;->a:Li/a/a/a/a/c0/a;
+
+    invoke-static {p1}, Li/a/a/a/a/c0/a;->X(Li/a/a/a/a/c0/a;)V
+
+    iget-object p1, p0, Li/a/a/a/a/c0/a$d;->a:Li/a/a/a/a/c0/a;
+
+    invoke-static {p1}, Li/a/a/a/a/c0/a;->W(Li/a/a/a/a/c0/a;)Landroid/widget/TextView;
+
+    move-result-object p1
+
+    invoke-virtual {p1}, Landroid/widget/TextView;->getText()Ljava/lang/CharSequence;
+
+    move-result-object p1
+
+    invoke-interface {p1}, Ljava/lang/CharSequence;->toString()Ljava/lang/String;
+
+    move-result-object p1
+
+    invoke-static {p1}, Li/a/a/b/a/k/m;->D(Ljava/lang/String;)Z
+
+    move-result v0
+
+    if-eqz v0, :cond_0
+
+    iget-object v0, p0, Li/a/a/a/a/c0/a$d;->a:Li/a/a/a/a/c0/a;
+
+    invoke-static {v0}, Li/a/a/a/a/c0/a;->U(Li/a/a/a/a/c0/a;)Landroid/widget/TextView;
+
+    move-result-object v0
+
+    invoke-virtual {v0, p1}, Landroid/widget/TextView;->setText(Ljava/lang/CharSequence;)V
+
+    iget-object p1, p0, Li/a/a/a/a/c0/a$d;->a:Li/a/a/a/a/c0/a;
+
+    invoke-static {p1}, Li/a/a/a/a/c0/a;->W(Li/a/a/a/a/c0/a;)Landroid/widget/TextView;
+
+    move-result-object p1
+
+    const-string v0, ""
+
+    invoke-virtual {p1, v0}, Landroid/widget/TextView;->setText(Ljava/lang/CharSequence;)V
+
+    :cond_0
+    return-void
+.end method
