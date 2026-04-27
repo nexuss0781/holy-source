@@ -1,4 +1,1 @@
-extracted_apk/
-extracted_apk/
-*.txt
-*.py
+Nothing should be ignored based on the provided file changes. The only modified file is REPORT.md, which is a source/markdown file and should not be added to .gitignore.
