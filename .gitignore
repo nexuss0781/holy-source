@@ -1,19 +1,4 @@
 ```
-# Documentation and assignment files
-TODO.md
-ASSIGNMENT.md
-
-# Team-specific documentation
-team-3/TODO.md
-team-3/subteam-a/ASSIGNMENT.md
-team-3/subteam-b/ASSIGNMENT.md
-team-3/subteam-c/ASSIGNMENT.md
-team-3/subteam-d/ASSIGNMENT.md
-
-# Team 4 documentation (to be committed separately)
-!team-4/TODO.md
-!team-4/subteam-a/ASSIGNMENT.md
-!team-4/subteam-b/ASSIGNMENT.md
-!team-4/subteam-c/ASSIGNMENT.md
-!team-4/subteam-d/ASSIGNMENT.md
+# Documentation and notes
+*.md
 ```
