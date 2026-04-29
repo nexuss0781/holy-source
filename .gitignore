@@ -1,4 +1,37 @@
 ```
-# Documentation and notes
-*.md
+# Decrypted output files
+team-1/subteam-d/decrypted_output/
+
+# Environment and temporary files
+.env
+.env.local
+*.tmp
+*.log
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build artifacts
+build/
+dist/
+*.o
+*.obj
+*.out
+
+# Dependencies
+.venv/
+venv/
+node_modules/
+
+# Test assets (if they contain sensitive data)
+team-1/subteam-d/test_assets/
 ```
