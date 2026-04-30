@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@id/nav_menu_group_1" android:visible="false" />
+    <group android:id="@id/nav_menu_group_2" android:visible="false" />
+    <group android:id="@id/nav_menu_group_3" android:visible="false" />
+    <group android:id="@id/nav_menu_group_4" android:visible="false" />
+    <group android:id="@id/nav_menu_group_5" android:visible="false" />
+    <group android:id="@id/nav_menu_group_6" android:visible="false" />
+</menu>
