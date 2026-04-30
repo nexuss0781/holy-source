@@ -1,0 +1,302 @@
+\c 7 
+\b 
+
+\s1 ምዕራፍ ፮።
+\s2 ዘከመ ተናገረ ኢየሱስ በእንተ ሰዊት ወዕለተ ሰንበት።
+\m \bd ፩፡\bd*\bd  \bd*\bd ወእምዝ\bd*\bd  \bd*\bd ካዕበ\bd*\bd  \bd*\bd ወፈረ\bd*\bd  \bd*\bd እግዚእ\bd*\bd  \bd*\bd ኢየሱስ\bd*\bd  \bd*\bd ማዕከለ\bd*\bd  \bd*\bd ገራውህ\bd*\bd  \bd*\bd በሰንበት።\bd*
+\m ፩፡ ከዚህ በኋላ ጌታችን ኢየሱስ ክርስቶስ በሰንበት በእርሽ መካከል ሄደ።
+\m \bd ወመሐዉ\bd*\bd  \bd*\bd አርዳኢሁ\bd*\bd  \bd*\bd ሰዊተ\bd*\bd  \bd*\bd ወሐሰዩ\bd*\bd  \bd*\bd በእደዊሆሙ\bd*\bd  \bd*\bd ወበልዑ።\bd*\bd  \bd*
+\m ደቀ መዛሙርቱ እሸት እየቆረጡ እያሹ ይበሉ ጀመር።
+\m \bd ወይቤልዎሙ\bd*\bd  \bd*\bd ፈሪሳውያን\bd*\bd  \bd*\bd ለምንትኑ\bd*\bd  \bd*\bd ትገብሩ\bd*\bd  \bd*\bd ዘኢይከውን\bd*\bd  \bd*\bd ለገቢር\bd*\bd  \bd*\bd በሰንበት።\bd*
+\m ፈሪሳውያን በሰንበት ለመሥራት የማይገባ ሥራ ለምን ትሰራላችሁ አሏቸው።
+\m \bd (\bd*\bd ሐተታ\bd*\bd )\bd* ማቴዎስ \bd ርኢ\bd*\bd  \bd*\bd ዘይገብሩ\bd*\bd  \bd*\bd አርዳኢከ\bd* ብለው ጠየቁት ይላል። ሉቃስ \bd ለምንት\bd*\bd  \bd*\bd ትገብሩ\bd* አሏቸው አለ። እንደምን ነው አይለያይም ቢሉ አይለያይም \bd ርኢ\bd*\bd  \bd*\bd ዘይገብሩ\bd*\bd  \bd*\bd አርዳኢከ\bd* ብለው ጠይቀውታል። ዝም አላቸው \bd ለምንት\bd*\bd  \bd*\bd ትገብሩ\bd*\bd  \bd*ብለው እነሱን ጠይቀዋቸዋል። የፊተኛውን ማቴዎስ የኋለኛውን ሉቃስ ጽፈዋል።
+\m \bdit አንድም\bdit* ነገር እንደ ሉቃስ ነው ለምንት ትገብሩ ብለው እነርሱን ጠይቀዋቸል። ዝም ቢሏቸው ባይመልሱላቸው \bd ርኢ\bd*\bd  \bd*\bd ዘይገበሩ\bd*\bd  \bd*ብለው እሱን ጠይቀውታል እሱ ይመልስላቸዋል።
+\m \bd ፫፡\bd*\bd  \bd*\bd ወአውሥአ\bd*\bd  \bd*\bd እግዚእ\bd*\bd  \bd*\bd ኢየሱስ።\bd*
+\m ፫፡ ጌታም መለሰ።
+\m \bd ወይቤሎሙ\bd*\bd  \bd*\bd ኢያንበብክሙኑ\bd*\bd  \bd*\bd ዘገብረ\bd*\bd  \bd*\bd ዳዊት\bd*\bd  \bd*\bd አመ\bd*\bd  \bd*\bd ርኅበ።\bd*
+\m ዳዊት በተራበ ጊዜ ያደረገውን አላነበባችሁምን።
+\m \bd ውእተሂ\bd*
+\m እርሱም።
+\m \bd ወእለ\bd*\bd  \bd*\bd ምስሌሁ።\bd*
+\m ከእሱም ጋራ ያሉት።
+\m \bd ፬፡\bd*\bd  \bd*\bd ዘከመ\bd*\bd  \bd*\bd ቦአ\bd*\bd  \bd*\bd ቤተ\bd*\bd  \bd*\bd እግዚአብሔር\bd*\bd  \bd*\bd ወነሥዓ\bd*\bd  \bd*\bd ኅብስተ\bd*\bd  \bd*\bd ቍርባን።\bd*
+\m ፬፡ ከቤተ እግዚአብሔር ገብቶ የሚሠሩትን መሥዋዕት እንደ ወሰደ።
+\m \bd ወበልዓ\bd*\bd  \bd*\bd ውእቱኒ።\bd*
+\m እሱም እንደ በላ።
+\m \bd ወወሀቦሙ\bd*\bd  \bd*\bd ለእለ\bd*\bd  \bd*\bd ምስሌሁ\bd*\bd  \bd*\bd ዘኢይከውኖሙ\bd*\bd  \bd*\bd ለበሊዕ።\bd*
+\m ከእሱም ጋራ ላሉ ለመብላት የማይገባቸውን እንደሰጣቸው።
+\m \bd ዘእንበለ\bd*\bd  \bd*\bd ለካህናት\bd*\bd  \bd*\bd ለባሕቲቶሙ\bd*
+\m ለካህናት ብቻ ይገባቸዋል እንጂ።
+\m \bd ፭፡\bd*\bd  \bd*\bd ወይቤሎሙ\bd*\bd  \bd*\bd እግዚአ\bd*\bd  \bd*\bd ውእቱ\bd*\bd  \bd*\bd ለሰንበት\bd*\bd  \bd*\bd ወልደ\bd*\bd  \bd*\bd እጓለ\bd*\bd  \bd*\bd እመ\bd*\bd  \bd*\bd ሕያው።\bd*
+\m ፭፡ የሰንበት ጌታዋም ወልደ እጓለ እመሕያው ክርስቶስ ነው አላቸው።
+\s2 ዘከመ ፈወሶ ኢየሱስ ለዘየብሰት እዴሁ።
+\m \bd ፮፡\bd*\bd  \bd*\bd ወእምዝ\bd*\bd  \bd*\bd በካልዕት\bd*\bd  \bd*\bd ሰንበት\bd*\bd  \bd*\bd ቦአ\bd*\bd  \bd*\bd ምኵራበ\bd*\bd  \bd*\bd ወመሀሮሙ።\bd*
+\m ፮፡ ከዚህ በኋላ በሁለተኛው ሰንበት ከምኵራብ ገብቶ አስተማራቸው።
+\m ፯፡ ወሀሎ ብእሲ ዘየብሰት እዴሁ እንተ የማን።
+\m ፯፡ ቀኝ እጁ የሰለለች ሰው ነበር።
+\m \bd ወይትዓቀብዎ\bd*\bd  \bd*\bd ጸሐፍት\bd*\bd  \bd*\bd ወፈሪሳውያን\bd*\bd  \bd*\bd ለእመ\bd*\bd  \bd*\bd ይፌውሶ\bd*\bd  \bd*\bd በሰንበት።\bd*
+\m ጸሐፍት ፈሪሳውያን በሰንበት ይፈውሰው እንደሆነ ብለው ይጠባበቁት ነበር።
+\m \bd ከመ\bd*\bd  \bd*\bd ይረክቡ\bd*\bd  \bd*\bd ምክንያተ\bd*\bd  \bd*\bd በዘያስተዋድይዎ።\bd*
+\m በሚያጣሉት ገንዘብ ያጣሉት ዘንድ ምክንያት ያገኙበት ዘንድ።
+\m \bd ፰፡\bd*\bd  \bd*\bd ወውእቱሰ\bd*\bd  \bd*\bd የአምሮሙ\bd*\bd  \bd*\bd ዘይሔልዩ።\bd*
+\m ፰፡ እሱ ግን የሚያስቡትን ያውቅባቸው ነበር።
+\m \bd ወይቤሎ\bd*\bd  \bd*\bd ለውእቱ\bd*\bd  \bd*\bd ብእሲ\bd*\bd  \bd*\bd ተንሥእ\bd*\bd  \bd*\bd ወቁም\bd*\bd  \bd*\bd ማዕከለ።\bd*
+\m ያንንም ሰው አለው ተነሥተህ ቁም።
+\m \bd ወተንሥአ\bd*\bd  \bd*\bd ወቆመ።\bd*
+\m ተነሥቶ ቆመ።
+\m \bd ፱፡\bd*\bd  \bd*\bd ወይቤሎሙ\bd*\bd  \bd*\bd እግዚእ\bd*\bd  \bd*\bd ኢየሱስ\bd*\bd  \bd*\bd እሴአለክሙ\bd*\bd  \bd*\bd ወምንት\bd*\bd  \bd*\bd ውእቱ\bd*\bd  \bd*\bd ዘይደሉ\bd*\bd  \bd*\bd ዘይከውን\bd*\bd  \bd*\bd በሰንበት።\bd*
+\m ፱፡ ጌታችን ኢየሱስ ክርስቶስ በሰንበት የሚገባውን እጠይቃችኋለሁ።
+\m \bd ገቢረ\bd*\bd  \bd*\bd ሠናይኑ\bd*\bd  \bd*\bd አው\bd*\bd  \bd*\bd ገቢረ\bd*\bd  \bd*\bd እከይኑ።\bd*
+\m መልካም መሥራት ነው። ወይስ ክፉ መሥራት።
+\m \bd አሕይዎ\bd*\bd  \bd*\bd ነፍስኑ\bd*\bd  \bd*\bd ወሚመ\bd*\bd  \bd*\bd ቀቲል።\bd*
+\m ነፍስ ማዳን ነውን። ወይስ ነፍስ መግደል ነው የሚገባው አላቸው።
+\m \bd ፲፡\bd*\bd  \bd*\bd ወአርመሙ።\bd*
+\m ፲፡ ዝም አሉ።
+\m \bd ወነጺሮ\bd*\bd  \bd*\bd ኵሎሙ\bd*\bd  \bd*\bd በመዓት\bd*\bd  \bd*\bd ይቤሎ\bd*\bd  \bd*\bd ለውእቱ\bd*\bd  \bd*\bd ብእሲ\bd*\bd  \bd*\bd ስፋሕ\bd*\bd  \bd*\bd እዴከ።\bd*
+\m እነሱንም በመዓት አይቶ እጅህን ዘርጋ አለው።
+\m \bd ወሰፍሐ።\bd*
+\m እጁን ዘረጋ።
+\m \bd ወሐይወት\bd*\bd  \bd*\bd እዴሁ\bd*\bd  \bd*\bd ከመ\bd*\bd  \bd*\bd ካልእታ\bd*
+\m እንጀ ግራዪቱ ሆነች።
+\m \bd ፲፩፡\bd*\bd  \bd*\bd ወእሙንቱሰ\bd*\bd  \bd*\bd የአብዱ\bd*\bd  \bd*\bd ፈድፋደ።\bd*
+\m ፲፩። እነሱ ግን እጅግ ተነሣሱ።
+\m \bd ወተማከሩ\bd*\bd  \bd*\bd በበይናቲሆሙ\bd*\bd  \bd*\bd ዘከመ\bd*\bd  \bd*\bd ይሬስይዎ\bd*\bd  \bd*\bd ለእግዚእ\bd*\bd  \bd*\bd ኢየሱስ።\bd*
+\m ጌታን እንደሚያደርጉት እርስ በእርሳቸው ተማከሩ።
+\s2 ዘከመ ሰመዮሙ ለ፲ቱ ወ፪ቱ ሐዋርያት።
+\m \bd ፲፪፡\bd*\bd  \bd*\bd ወእምዝ\bd*\bd  \bd*\bd ኮነ\bd*\bd  \bd*\bd በውእቱ\bd*\bd  \bd*\bd መዋዕል\bd*\bd  \bd*\bd ዓርገ\bd*\bd  \bd*\bd እግዚእ\bd*\bd  \bd*\bd ኢየሱስ\bd*\bd  \bd*\bd ውስተ\bd*\bd  \bd*\bd ደብር\bd*\bd  \bd*\bd ይጼሊ።\bd*
+\m ፲፪፡ በዚያ ወራት ሊጸልይ ወደ ተራራ ወጣ።
+\m \bd ወያሌሊ\bd*\bd  \bd*\bd በጸሎት\bd*\bd  \bd*\bd ኀበ\bd*\bd  \bd*\bd እግዚአብሔር።\bd*
+\m ያስተበቍዕ ሲል ነው። ወደ እግዚአብሔር በመጸለይ ይተጋ ዘንድ።
+\m \bd ፲፫፡\bd*\bd  \bd*\bd ወጸቢሖ\bd*\bd  \bd*\bd ጸውዖሙ\bd*\bd  \bd*\bd ለአርዳኢሁ።\bd*\bd  \bd*\bd ማቴ\bd*\bd  \bd*\bd ፲፥፩።\bd*\bd  \bd*\bd ማር\bd*\bd  \bd*\bd ፫፥፲፫።\bd*
+\m ፲፫፡ በነጋም ጊዜ ደቀ መዛሙርቱን ጠራቸው።
+\m \bd ወኃረየ\bd*\bd  \bd*\bd እምውስቴቶሙ\bd*\bd  \bd*\bd አሠርተ\bd*\bd  \bd*\bd ወክልኤተ\bd*\bd  \bd*\bd ወሰመዮሙ\bd*\bd  \bd*\bd ሐዋርያተ።\bd*
+\m ከእነሱም አሥራ ሁለቱን መርጦ ሐዋርያት አላቸው።
+\m \bd ፲፬፡\bd*\bd  \bd*\bd ስምዖን\bd*\bd  \bd*\bd ዘተሰምየ\bd*\bd  \bd*\bd ጴጥሮስ።\bd*
+\m ፲፬፡ ጴጥሮስ የተባለ ስምዖን።
+\m \bd ወእንድርያስ\bd*\bd  \bd*\bd እኍሁ።\bd*
+\m ወንድሙ እንድርያስ።
+\m \bd ወያዕቆብ።\bd*
+\m ያዕቆብም።
+\m \bd ወዮሐንስ።\bd*
+\m ዮሐንስም
+\m \bd ወፊልጶስ።\bd*
+\m ፊልጶስም
+\m \bd ወበርተሎሜዎስ\bd*
+\m በርተሎሜዎስም።
+\m \bd ፲፭፡\bd*\bd  \bd*\bd ወማቴዎስ።\bd*
+\m ፲፭፡ ማቴዎስም።
+\m \bd ወቶማስ።\bd*
+\m ቶማስም
+\m \bd ወያዕቆብ\bd*\bd  \bd*\bd ወልዶ\bd*\bd  \bd*\bd እልፍዮስ።\bd*
+\m የእልፍዮስ ልጅ ያዕቆብም።
+\m \bd ፲፮፡\bd*\bd  \bd*\bd ወስምዖን\bd*\bd  \bd*\bd ቀናኢ።\bd*
+\m ፷፮፡ ቀናኢ የሚባለው ስምዖን።
+\m \bd ወይሁዳ\bd*\bd  \bd*\bd ዘያዕቆብ\bd*
+\m የያዕቆብ ወንድም ይሁዳ።
+\m \bd ወይሁዳ\bd*\bd  \bd*\bd አስቆሮታዊ\bd*\bd  \bd*\bd ዘአለዎ\bd*\bd  \bd*\bd ወዘአግብኦ።\bd*
+\m ከድቶ ያስያዘው የአስቆሮት ሰው ይሁዳም ናቸው።
+\m \bd ፲፯፡\bd*\bd  \bd*\bd ወወረደ\bd*\bd  \bd*\bd ምስሌሆሙ\bd*\bd  \bd*\bd ወቆመ\bd*\bd  \bd*\bd ውስተ\bd*\bd  \bd*\bd መካን\bd*\bd  \bd*\bd ርኂብ።\bd*
+\m ፲፯፡ ከእርሳቸው ጋራም ወርዶ በሰፊ ቦታ ቆመ።
+\m \bd ወብዙኃን\bd*\bd  \bd*\bd ሰብእ\bd*\bd  \bd*\bd እምአርዳኢሁ።\bd*
+\m ከደቀ መዛመርቱም ወገን ብዙ ሰዎች ነበሩ።
+\m \bd ወብዙኃን\bd*\bd  \bd*\bd ጥቀ\bd*\bd  \bd*\bd እምሕዝብ\bd*
+\m ከሕዝቡም ወገን እጅግ ብዙ ሰዎች
+\m \bd ዘእምኵሉ\bd*\bd  \bd*\bd ይሁዳ።\bd*
+\m ከይሁዳ አውራጃ ሁሉ የመጡ
+\m \bd ወእምኢየሩሳሌም\bd*\bd  \bd*\bd ወእምጰራልይስ\bd*\bd  \bd*\bd ወጰራልዩ።\bd*
+\m ከኢየሩሳሌምና ከጰራልይስ።
+\m \bd ወእምጢሮስ\bd*\bd  \bd*\bd ወሲዶና\bd*\bd  \bd*\bd እለ\bd*\bd  \bd*\bd መ\bd*\bd  \bd*\bd ጽኡ\bd*\bd  \bd*\bd ይስምዕዎ\bd*\bd  \bd*\bd ወይትፈወሱ\bd*\bd  \bd*\bd እምደዌሆሙ።\bd*
+\m ከጢሮስና ከሲዶና ሊሰሙት ከደዌያቸውም ሊፈወሱ የመጡ።
+\m \bd ፲፰፡\bd*\bd  \bd*\bd ወእለሂ\bd*\bd  \bd*\bd አጋንንት\bd*\bd  \bd*\bd እኩያን፣\bd*
+\m ፲፰፡ የክፉዎች አጋንንት ያደሩባቸውም ይድኑ ነበር።
+\m \bd ፲፱፡\bd*\bd  \bd*\bd ወኵሎሙ\bd*\bd  \bd*\bd አሕዛብ\bd*\bd  \bd*\bd ይፈቅዱ\bd*\bd  \bd*\bd ይግሥሥዎ።\bd*
+\m ፲፱፡ ሕዝቡ ሁሉ ሊዳስሱት ይሹ ነበር።
+\m \bd እስመ\bd*\bd  \bd*\bd ኃይል\bd*\bd  \bd*\bd ይወፅእ\bd*\bd  \bd*\bd እምኔሁ።\bd*
+\m ኃይል ከእሱ ትወጣ ነበርና።
+\m \bd ወያሐይዎሙ\bd*\bd  \bd*\bd ለኵሎሙ።\bd*
+\m ሁሉንም ይፈውሳቸው ነበር።
+\m \bd በእንተ\bd*\bd  \bd*\bd ስብከት\bd*\bd  \bd*\bd በውስተ\bd*\bd  \bd*\bd ደብር\bd*\bd  \bd*\bd ወበእንተ\bd*\bd  \bd*\bd ብፁዓን።\bd*
+\m \bd ፳፡\bd*\bd  \bd*\bd ወውእቱሰ\bd*\bd  \bd*\bd አንሥአ\bd*\bd  \bd*\bd አእይንቲሁ\bd*\bd  \bd*\bd ኀበ\bd*\bd  \bd*\bd አርዳኢሁ።\bd*\bd  \bd*\bd ማቴ\bd*\bd  \bd*\bd ፭፥፪።\bd*
+\m ፳፡ እሱ ግን ወደ ደቀ መዛሙርቱ ዓይኑን አነሣ።
+\m \bd ወይቤሎሙ\bd*\bd  \bd*\bd ብፁዓን\bd*\bd  \bd*\bd አንትሙ\bd*\bd  \bd*\bd ነዳያን።\bd*
+\m ድሆች ብፁዓን ናችሁ።
+\m \bd እስመ\bd*\bd  \bd*\bd ለክሙ\bd*\bd  \bd*\bd ይእቲ\bd*\bd  \bd*\bd መንግሥተ\bd*\bd  \bd*\bd እግዚአብሔር።\bd*\bd  \bd*
+\m መንግሥተ ሰማያት የእናንት ናትና።
+\m \bd ፳፩፡\bd*\bd  \bd*\bd ብፁዓን\bd*\bd  \bd*\bd እለ\bd*\bd  \bd*\bd ትርኅቡ\bd*\bd  \bd*\bd ይእዜ።\bd*\bd  \bd*\bd ማቴ\bd*\bd  \bd*\bd ፭፥፮።\bd*
+\m ፳፩፡ ዛሬ የምትራቡ ብፁዓን ናችሁ።
+\m \bd እስመ\bd*\bd  \bd*\bd ትፀግቡ።\bd*
+\m ትጠግባላችሁና።
+\m \bd ብፁዓን\bd*\bd  \bd*\bd እለ\bd*\bd  \bd*\bd ትበክዩ\bd*\bd  \bd*\bd ይእዜ።\bd*
+\m ዛሬ የምታለቅሱ የተመሰገናችሁ ናችሁ። 
+\m \bd እስመ\bd*\bd  \bd*\bd ትስሕቁ።\bd*
+\m ደስ ይላችኋልና።
+\m \bd ፳፪፡\bd*\bd  \bd*\bd ብፁዓን\bd*\bd  \bd*\bd አንትሙ\bd*\bd  \bd*\bd ሶበ\bd*\bd  \bd*\bd ይጸልአክሙ\bd*\bd  \bd*\bd ሰብእ።\bd*
+\m ፳፪። እናንተም ሰዎች ቢጠሏችሁ የተመሰገናችሁ ናችሁ።
+\m \bd ወይፈልጡክሙ።\bd*\bd  \bd*
+\m ቢለይዋችሁ።
+\m \bd ወይሰድዱክሙ።\bd*
+\m ከሀገራችሁ ቢያስወጧችሁ።
+\m \bd ወይጼዕሉክሙ።\bd*
+\m ቢሰድቧችሁ።
+\m \bd ወያወጽኡ\bd*\bd  \bd*\bd ለክሙ\bd*\bd  \bd*\bd ስመ\bd*\bd  \bd*\bd እኵየ\bd*\bd  \bd*\bd በእንተ\bd*\bd  \bd*\bd ወልደ\bd*\bd  \bd*\bd እጓለ\bd*\bd  \bd*\bd እመሕያው።\bd*
+\m በወልደ እጓለ እመሕያው ክርስቶስ ስለ አመናችሁ ክፉ ስም ቢያወጡላችሁ።
+\m \bd ፳፫፡\bd*\bd  \bd*\bd ተፈሥሑ\bd*\bd  \bd*\bd ወተሐሠዩ\bd*\bd  \bd*\bd ይእተ\bd*\bd  \bd*\bd አሚረ።\bd*
+\m ፳፫፡ በዚያን ጊዜ ደስ ይበላችሁ።
+\m \bd ወአንፈርአጹ።\bd*
+\m ኃሤትም አድርጉ።
+\m \bd እስመ\bd*\bd  \bd*\bd ብዙኅ\bd*\bd  \bd*\bd ዕሤትክሙ\bd*\bd  \bd*\bd በሰማያት።\bd*
+\m ዋጋችሁ በሰማይ ብዙ ነውና።
+\m \bd እስመ\bd*\bd  \bd*\bd ከማሁ\bd*\bd  \bd*\bd ረሰይዎሙ\bd*\bd  \bd*\bd ለነቢያት\bd*\bd  \bd*\bd ቀደምት\bd*\bd  \bd*\bd አበዊሆሙ።\bd*
+\m በአባቶቻቸው በነቢያት እንዲህ ያደርጉ ነበርና።
+\m \bd ፳፬፡\bd*\bd  \bd*\bd ወባሕቱ\bd*\bd  \bd*\bd አሌ\bd*\bd  \bd*\bd ለክሙ\bd*\bd  \bd*\bd አብዕልት።\bd*\bd  \bd*\bd ሲራ\bd*\bd  \bd*\bd ፴፩፥፰።\bd*\bd  \bd*\bd አሞ\bd*\bd  \bd*\bd ፮፥፩።\bd*
+\m ፳፬፡ እናንተ ባለጸጐች ወዮላችሁ።
+\m \bd ፳፬፡\bd*\bd  \bd*\bd እስመ\bd*\bd  \bd*\bd ሰለጥክሙ\bd*\bd  \bd*\bd ትፍሥሕትክሙ።\bd*
+\m \bd (\bd*\bd ሐተታ\bd*\bd )\bd* ሉቃስ አጸፋ ይጽፋል ደስታችሁን ጨርሳችኋልና።
+\m \bd ፳፭፡\bd*\bd  \bd*\bd አሌ\bd*\bd  \bd*\bd ለክሙ\bd*\bd  \bd*\bd እለ\bd*\bd  \bd*\bd ትጸግቡ\bd*\bd  \bd*\bd ይእዜ።\bd*\bd  \bd*\bd ኢሳ\bd*\bd  \bd*\bd ፷፭፥፲፫።\bd*
+\m ፳፭፡ ዛሬ የምትጸግቡ ወዮላችሁ።
+\m \bd እስመ\bd*\bd  \bd*\bd ትርኅቡ።\bd*
+\m ትራባላችሁና።
+\m \bd አሌ\bd*\bd  \bd*\bd ለክሙ\bd*\bd  \bd*\bd እለ\bd*\bd  \bd*\bd ትስሕቁ\bd*\bd  \bd*\bd ይእዜ።\bd*
+\m ዛሬ የምትስቁ ወዮላችሁ
+\m \bd እስመ\bd*\bd  \bd*\bd ትብክዩ\bd*\bd  \bd*\bd ወትላህዉ።\bd*
+\m ታለቅሳላችሁና።
+\m \bd ፳፮፡\bd*\bd  \bd*\bd አሌ\bd*\bd  \bd*\bd ለክሙ\bd*\bd  \bd*\bd ሶበ\bd*\bd  \bd*\bd ሠናየ\bd*\bd  \bd*\bd ይብል\bd*\bd  \bd*\bd ሰብእ\bd*\bd  \bd*\bd ላዕሌክሙ\bd*\bd  \bd*\bd ወይዌድሱክሙ።\bd*
+\m ፳፮፡ ሰው ቢያመሰግናችሁ ወዮላችሁ።
+\m \bd እስመ\bd*\bd  \bd*\bd ከማሁ\bd*\bd  \bd*\bd ረሰይዎሙ\bd*\bd  \bd*\bd ለነቢያተ\bd*\bd  \bd*\bd ሐሰት\bd*\bd  \bd*\bd አበዊሆሙ\bd*\bd  \bd*\bd ነቢያተ\bd*\bd  \bd*\bd ሐሰት።\bd*
+\m አባቶቻችሁን ሰላም ሳይኖር ሰላም እያሉ በሐሰት ጐድተዋቸዋልና በሐሰት ቢያመሰግኑዋችሁ ወዮላችሁ።
+\m \bdit አንድም\bdit*\bdit  \bdit*\bd ለነቢያተ\bd*\bd  \bd*\bd ሐሰት\bd*\bd  \bd*\bd አበዊክሙ\bd* ሰው በውዳሴ ከንቱ ቢያመሰግናችሁ ወዮላችሁ። ቀድሞ አባቶቻችሁን ነቢያተ ሐሰትን ሕግ መጠበቁ ሳይኖር ሕግ ጠባቆች እያሉ ጐድተዋቸዋልና ሰው በውዳሴ ከንቱ ቢያመሰግናችሁ ወዮላችሁ።
+\m \bdit አንድም\bdit* ቅጽል አድርገው ነቢያተ ሐሰት አባቶቻችሁን በሐሰት ጐድተዋቸዋልና ሰው በሐሰት ቢያመሰግናችሁ ወዮላችሁ።
+\m \bd ፳፯፡\bd*\bd  \bd*\bd ወለክሙሰ\bd*\bd  \bd*\bd እለ\bd*\bd  \bd*\bd ትሰምዑኒ\bd*\bd  \bd*\bd እብለክሙ\bd*\bd  \bd*\bd አፍቅሩ\bd*\bd  \bd*\bd ጸላእተክሙ።\bd*\bd  \bd*\bd ማቴ\bd*\bd  \bd*\bd ፭፥፵፬።\bd*
+\m ለምትሰሙኝ ለእናንተ ግን ጠላታችሁን ውደዱ እላችኋለሁ።
+\m \bd ወግበሩ\bd*\bd  \bd*\bd ሠናየ\bd*\bd  \bd*\bd ለእለ\bd*\bd  \bd*\bd ይፃረሩክሙ።\bd*
+\m ለሚጠሏችሁም መልካም አድርጉ።
+\m \bd ፳፰፡\bd*\bd  \bd*\bd ወደኃርዎሙ\bd*\bd  \bd*\bd ለእለ\bd*\bd  \bd*\bd ይረግሙክሙ።\bd*
+\m ፳፰፡ የሚረግሟችሁን መርቁ።
+\m \bd ወጸልዩ\bd*\bd  \bd*\bd ለእለ\bd*\bd  \bd*\bd ይትዔገሉክሙ።\bd*
+\m ለሚበድሏችሁም ለምኑ።
+\m \bd ፳፱፡\bd*\bd  \bd*\bd ወለዘሂ\bd*\bd  \bd*\bd ጸፍአክ\bd*\bd  \bd*\bd መልታሕቴከ\bd*\bd  \bd*\bd ሚጥ\bd*\bd  \bd*\bd ሎቱ\bd*\bd  \bd*\bd ከልዕታሂ።\bd*\bd  \bd*\bd ማቴ\bd*\bd  \bd*\bd ፭፥፴፱።\bd*\bd  \bd*\bd ፪፡ቆሮ\bd*\bd  \bd*\bd ፮፥፯።\bd*
+\m ፳፱፡ ፊትህን ለጸፋህም ሁለተኛውን መልስለት።
+\m \bd ወለዘሂ\bd*\bd  \bd*\bd ነሥአከ\bd*\bd  \bd*\bd ልብሰክ\bd*\bd  \bd*\bd ክዳነከሂ\bd*\bd  \bd*\bd ኢትክልኦ።\bd*
+\m መጐናጸፊያህን ለወሰደብህም ቀሚስህን አትንሣው።
+\m \bd ፴፡\bd*\bd  \bd*\bd ወይእዜኒ\bd*\bd  \bd*\bd አፍቅሩ\bd*\bd  \bd*\bd ጸላእተክሙ\bd*\bd  \bd*\bd ለኵሉ\bd*\bd  \bd*\bd ለዘሰአለከ\bd*\bd  \bd*\bd ሀብ።\bd*
+\m ፴፡ ለለመነህ ሁሉ ስጥ።
+\m \bd ወለእመሂ\bd*\bd  \bd*\bd ሄደከ\bd*\bd  \bd*\bd ንዋየከ\bd*\bd  \bd*\bd ኢትክልዖ።\bd*
+\m የሚቀማሕንም አትከልክለው።
+\m \bd ፴፩፡\bd*\bd  \bd*\bd ወበከመ\bd*\bd  \bd*\bd ትፈቅዱ\bd*\bd  \bd*\bd ይግበሩ\bd*\bd  \bd*\bd ለክሙ\bd*\bd  \bd*\bd ሰብእ\bd*\bd  \bd*\bd ከማሁ\bd*\bd  \bd*\bd ግበሩ\bd*\bd  \bd*\bd ሎሙ\bd*\bd  \bd*\bd አንትሙ።\bd*\bd  \bd*\bd ጦቢ\bd*\bd  \bd*\bd ፬፥፲፮።\bd*\bd  \bd*\bd ማቴ\bd*\bd  \bd*\bd ፯፥፲፪።\bd*
+\m ፴፩፡ ሰው ሊያደርግላችሁ የምትወዱትን እናንተም እንዲህ አድርጉላቸው።
+\m \bd ፴፪፡\bd*\bd  \bd*\bd ወእመሰ\bd*\bd  \bd*\bd ዳዕሙ\bd*\bd  \bd*\bd ዘአፍቀረክሙ\bd*\bd  \bd*\bd አፍቀርክሙ\bd*\bd  \bd*\bd ምንትኑ\bd*\bd  \bd*\bd ዕሤትክሙ።\bd*\bd  \bd*
+\m ፴፪፡ የወደዳችሁንም ብቻ ከወደዳችሁ ዋጋችሁ ምንድነው።
+\m \bd ኃጥአንሂ\bd*\bd  \bd*\bd ዘሰ\bd*\bd  \bd*\bd ይገብሩ።\bd*
+\m ይህንስ ኃጥአንም ያደርጉታል።
+\m \bd ወእመኒ\bd*\bd  \bd*\bd አሠነይክሙ\bd*\bd  \bd*\bd ለእለ\bd*\bd  \bd*\bd ያሤንዩ\bd*\bd  \bd*\bd ለክሙ\bd*\bd  \bd*\bd ምንትኑ\bd*\bd  \bd*\bd አንከ\bd*\bd  \bd*\bd ዕሤትክሙ።\bd*
+\m ፴፫፡ መልካም ለሚያደርጉላችሁ መልካም ብታደርጉ ምንድነው ዋጋችሁ።
+\m \bd ኃጥአንሂ\bd*\bd  \bd*\bd ከማሁሰ\bd*\bd  \bd*\bd ይገብሩ።\bd*
+\m እንደዚህስ ኃጥአንም ያደርጋሉ።
+\m \bd ፴፬፡\bd*\bd  \bd*\bd ወእመኒ\bd*\bd  \bd*\bd ለቃሕክሙ\bd*\bd  \bd*\bd እምኀበ\bd*\bd  \bd*\bd ዘትሴፈዉ\bd*\bd  \bd*\bd ትትፈደዩ\bd*\bd  \bd*\bd እምኔሁ\bd*\bd  \bd*\bd ምንትኑ\bd*\bd  \bd*\bd እንከ\bd*\bd  \bd*\bd ዕሤትክሙ።\bd*\bd  \bd*\bd ዘዳግ\bd*\bd  \bd*\bd ፲፭፥፰።\bd*\bd  \bd*\bd ማቴ\bd*\bd  \bd*\bd ፭፥፵፪።\bd*
+\m ፴፬፡ እንዲመልሱላችሁ ተስፋ ለምታደርጉዋቸው የምታበድሩ ከሆነ ዋጋችሁ ምንድነው፤
+\m \bd እስመ\bd*\bd  \bd*\bd ኃጥአንሂ\bd*\bd  \bd*\bd ይሌቅሕዎሙ\bd*\bd  \bd*\bd ለኃጥአን\bd*\bd  \bd*\bd ከመ\bd*\bd  \bd*\bd ይትፈደይዎሙ\bd*\bd  \bd*\bd ዕሩየ።\bd*
+\m ያበደሩትን ሊወስዱ ኃጥአንም ለኃጥአን ያበድሩዋቸዋልና
+\m \bd ፴፭፡\bd*\bd  \bd*\bd ወይእዜኒ\bd*\bd  \bd*\bd አፍቅሩ\bd*\bd  \bd*\bd ጸላእተክሙ።\bd*
+\m ፴፭፡ አሁንም ጠላታችሁን ውደዱ
+\m \bd ወአሠንዩ\bd*\bd  \bd*\bd ሎሙ።\bd*\bd  \bd*
+\m መልከም አድርጉላቸው።
+\m \bd ወለቅሑ\bd*\bd  \bd*\bd እንዘ\bd*\bd  \bd*\bd ኢትሴፈዉ\bd*\bd  \bd*\bd ትትፈደዩ\bd*
+\m እንከፈላለን ብላችሁ ተስፋ ሳታደርጉ አበድሩ።
+\m \bd ወይከውን\bd*\bd  \bd*\bd ብዙኅ\bd*\bd  \bd*\bd ዕሤትክሙ\bd*
+\m ዋጋችሁ ብዙ ይሆናልና።
+\m \bd ወትከውኑ\bd*\bd  \bd*\bd ውሉደ\bd*\bd  \bd*\bd ልዑል።\bd*
+\m የልዑልም ልጅ ትሆናላችሁ።
+\m \bd እስመ\bd*\bd  \bd*\bd ውእቱ\bd*\bd  \bd*\bd ኄር\bd*\bd  \bd*\bd ላዕለ\bd*\bd  \bd*\bd ኄራን\bd*\bd  \bd*\bd ወላዕለ\bd*\bd  \bd*\bd እኩያን።\bd*
+\m እሱ ለክፉውም ለበጎውም ቸር ነውና።
+\m \bd ፴፮፡\bd*\bd  \bd*\bd ወኵኑ\bd*\bd  \bd*\bd መሐርያነ\bd*\bd  \bd*\bd ከመ\bd*\bd  \bd*\bd አቡክሙ\bd*\bd  \bd*\bd ሰማያዊ\bd*\bd  \bd*\bd መሐሪ\bd*\bd  \bd*\bd ውእቱ።\bd*
+\m ፴፮፡ ሰማያዊ አባታችሁ ርኅሩኅ እንደሆነ እናንተም የምትራሩ ሁኑ።
+\m \bd ፴፯፡\bd*\bd  \bd*\bd ኢትኰንኑ።\bd*\bd  \bd*\bd ማቴ\bd*\bd  \bd*\bd ፯፥፩።\bd*\bd  \bd*
+\m ፴፯፡ አትፈራረዱም።
+\m \bd ወኢትትኳነኑ።\bd*
+\m አትፍረዱም
+\m \bd ኢትግፍዑ።\bd*
+\m አትበድሉ።
+\m \bd ወኢይግፍዑክሙ።\bd*
+\m አይበድሏችሁ። 
+\m \bd ኅድጉ።\bd*
+\m ተዉ 
+\m \bd ወየኃድጉ\bd*\bd  \bd*\bd ለክሙ።\bd*
+\m ይተዉላችኋል።
+\m \bd ፴፰፡\bd*\bd  \bd*\bd ሀቡ\bd*\bd  \bd*\bd ወይትወሀበክሙ።\bd*\bd  \bd*\bd ማቴ\bd*\bd  \bd*\bd ፮፥፪።\bd*\bd  \bd*\bd ማር\bd*\bd  \bd*\bd ፬፥፳፬።\bd*
+\m ፴፰፡ ስጡ ይሰጣችኋል።
+\m \bd መስፈርተ\bd*\bd  \bd*\bd ሠናየ\bd*\bd  \bd*\bd ንኅኑኃ\bd*\bd  \bd*\bd ወምሉዓ\bd*\bd  \bd*\bd ወዝኅዙኃ።\bd*
+\m በመልካም መስፈርያ መልተው።
+\m \bd ንኅኑኃ።\bd*
+\m ደርበብ አድርገው።
+\m \bd ምሉዓ።\bd*
+\m መልተው።
+\m \bd ወዝኅዙኃ።\bd*
+\m ጠብ ጠብ ሲል።
+\m \bd ይሁቡክሙ\bd*\bd  \bd*\bd ውስተ\bd*\bd  \bd*\bd ሕፅንክሙ።\bd*
+\m በብብታችሁ ማለት ሠውረው ይሰጧችኋል።
+\m \bdit አንድም\bdit*\bdit  \bdit*ሥራውን በሦስት ወገን ይሠሩታል በወጣኒነት በማዕከላዊነት በፍጹምነት ክብሩንም በዚያው ልክ ይወርሱታልና።
+\m \bdit አንድም\bdit* በዚህ ዓለም በገነት አንድ ወገን በደብረ ጽዮን በመንግሥተ ሰማያት ይወርሱታልና።
+\m \bd ወበመስፈርት\bd*\bd  \bd*\bd ዘሰፈርክሙ\bd*\bd  \bd*\bd ይሰፍሩ\bd*\bd  \bd*\bd ለክሙ።\bd*
+\m በምትሰፍሩበትም መስፈርያ ይሰፍሩላችኋል።
+\b 
+\s2 በእንተ ካልዓን ትእዛዛት።
+\m \bd ፴፱፡\bd*\bd  \bd*\bd ወመሰለ\bd*\bd  \bd*\bd ሎሙ።\bd*
+\m ፴፱፡ ምሳሌ መሰለላቸው።
+\m \bd ወይቤሎሙ\bd*\bd  \bd*\bd ይክልኑ\bd*\bd  \bd*\bd ዕውር\bd*\bd  \bd*\bd ለዕውር\bd*\bd  \bd*\bd መሪሖቶ።\bd*
+\m ዕውር ዕውርን ሊመራው ይቻለዋልን።
+\m \bd ፵፡\bd*\bd  \bd*\bd አኮኑ\bd*\bd  \bd*\bd ክልኤሆሙ\bd*\bd  \bd*\bd ይወድቁ\bd*\bd  \bd*\bd ውስተ\bd*\bd  \bd*\bd ግብ።\bd*\bd  \bd*\bd ማቴ\bd*\bd  \bd*\bd ፲፥፳፬።\bd*\bd  \bd*\bd ዮሐ\bd*\bd  \bd*\bd ፲፫፥፲፮።\bd*
+\m ፵፡ ሁለቱ ከጉድጓድ ይወድቁ የለምን አላቸው አንድ አርእስት።
+\m \bd አልቦ\bd*\bd  \bd*\bd ረድዕ\bd*\bd  \bd*\bd ዘየዓቢ\bd*\bd  \bd*\bd እምነ\bd*\bd  \bd*\bd ሊቁ።\bd*
+\m ከመምህሩ የሚበልጥ ደቀ መዝሙር የለም ሁለት አርእስት ተናገረ ለሁለቱም ያመጣል።
+\m \bd መጠኑ\bd*\bd  \bd*\bd ለኵሉ\bd*\bd  \bd*\bd ይኵን\bd*\bd  \bd*\bd ከመ\bd*\bd  \bd*\bd ሊቁ።\bd*
+\m የሁሉም መጠኑ እንደ መምህሩ ይሁን።
+\m \bd ፵፩፡\bd*\bd  \bd*\bd ምንተኑ\bd*\bd  \bd*\bd ትኔጽር\bd*\bd  \bd*\bd ኃሠረ\bd*\bd  \bd*\bd ዘውስተ\bd*\bd  \bd*\bd ዓይነ\bd*\bd  \bd*\bd ቢጽከ።\bd*\bd  \bd*\bd ማቴ\bd*\bd  \bd*\bd ፯፥፫።\bd*
+\m ፵፩፡ በወንድምህ ዓይን ጉድፍ ለምን ታያለህ።
+\m \bd (\bd*\bd ሐተታ\bd*\bd )\bd* ዕውር ላለው።
+\m \bd ወኢትሬኢ\bd*\bd  \bd*\bd ሠርዌዊ\bd*\bd  \bd*\bd ዘውስተ\bd*\bd  \bd*\bd ዓይንከ\bd*።
+\m በአንተ ዓይን ያለውን ምሰሶ አታስተውለውም።
+\m \bd ፵፪፡\bd*\bd  \bd*\bd ወእፎ\bd*\bd  \bd*\bd ትብሎ\bd*\bd  \bd*\bd ለቢጽከ\bd*\bd  \bd*\bd ተዓገሥ\bd*\bd  \bd*\bd ኦ\bd*\bd  \bd*\bd እኍየ\bd*\bd  \bd*\bd አውፅእ\bd*\bd  \bd*\bd ኃሠረ\bd*\bd  \bd*\bd እምውስተ\bd*\bd  \bd*\bd ዓይንከ።\bd*\bd  \bd*
+\m ፵፪፡ ወንድምህን ከዓይንህ ያለውን ጉድፍ አወጣ ዘንድ ተወኝ እንደምን ትለዋለህ።
+\m \bd ወአንተሰ\bd*\bd  \bd*\bd ኢትሬኢ\bd*\bd  \bd*\bd ሠርዌ\bd*\bd  \bd*\bd ዘውስተ\bd*\bd  \bd*\bd ዓይንከ።\bd*
+\m በአንተ ዓይን ያለውን ምሰሶ ግን አታስተውለውም።
+\m \bd ወእምዝ\bd*\bd  \bd*\bd ትኔጽር\bd*\bd  \bd*\bd ታውጽእ\bd*\bd  \bd*\bd ኃሠረ\bd*\bd  \bd*\bd እምዓይነ\bd*\bd  \bd*\bd ቢጽከ።\bd*
+\m ከዚህ በኋላ በወንድምህ ዓይን ያለውን ጉድፍ ለማውጣት ትችላለህ።
+\m \bd ፵፫።\bd*\bd  \bd*\bd አልቦ\bd*\bd  \bd*\bd ዕፅ\bd*\bd  \bd*\bd ሠናይ\bd*\bd  \bd*\bd ዘይፈሪ\bd*\bd  \bd*\bd ፍሬ\bd*\bd  \bd*\bd አኵየ።\bd*\bd  \bd*\bd ማቴ\bd*\bd  \bd*\bd ፯፥፲፰።\bd*\bd  \bd*\bd ፲፪፥፴፫።\bd*
+\m ፵፫፡ \bd አልቦ\bd*\bd  \bd*\bd ረድዕ\bd*\bd  \bd*ላለው ክፉ ፍሬ የሚያፈራ መልካም ዕንጨት የለም።
+\m \bd ወአልቦ\bd*\bd  \bd*\bd ዕፅ\bd*\bd  \bd*\bd እኵይ\bd*\bd  \bd*\bd ዘይፈሪ\bd*\bd  \bd*\bd ፍሬ\bd*\bd  \bd*\bd ሠናየ።\bd*
+\m መልካም ፍሬ የሚያፈራ ክፉ ዕንጨት የለም።
+\m \bd ፵፬፡\bd*\bd  \bd*\bd ወኵሉ\bd*\bd  \bd*\bd ዕፅ\bd*\bd  \bd*\bd እምፍሬሁ\bd*\bd  \bd*\bd ይትዓወቅ።\bd*
+\m ፵፬፡ ዕንጨትም ሁሉ በፍሬው ይታወቃል።
+\m \bd ወኢየአርሩ\bd*\bd  \bd*\bd በለሰ\bd*\bd  \bd*\bd እምአስዋክ።\bd*
+\m ከእሾህ በለስን አይሰበስቡም።
+\m \bd ወኢይቀስሙ\bd*\bd  \bd*\bd አስካለ\bd*\bd  \bd*\bd እምአሜከላ።\bd*
+\m ከደንደርም ወይንን አይለቅሙም።
+\m \bd ፵፭፡\bd*\bd  \bd*\bd ኄር\bd*\bd  \bd*\bd ብእሲ\bd*\bd  \bd*\bd እምሰናይ\bd*\bd  \bd*\bd መዝገበ\bd*\bd  \bd*\bd ልቡ\bd*\bd  \bd*\bd ያወፅዕ\bd*\bd  \bd*\bd ለሠናይት።\bd*
+\m ፵፭፡ ቸር ሰው ከቸር ልቡ መዝገብ ቸርነቱን ያወጣል።
+\m \bd ወእኵይ\bd*\bd  \bd*\bd ብእሲ\bd*\bd  \bd*\bd እምእኵይ\bd*\bd  \bd*\bd መዝገበ\bd*\bd  \bd*\bd ልቡ\bd*\bd  \bd*\bd ያወጽእ\bd*\bd  \bd*\bd ለእኪት።\bd*
+\m ክፉ ሰው ግን ከክፉ ልቡ ሣጥን ክፉ ነገርን ያወጣል።
+\m \bd እስመ\bd*\bd  \bd*\bd እምተረፈ\bd*\bd  \bd*\bd ልብ\bd*\bd  \bd*\bd ይነብብ\bd*\bd  \bd*\bd አፍ።\bd*
+\m አፍ ከልብ የተረፈውን ይናገራልና።
+\m \bd ፵፮፡\bd*\bd  \bd*\bd ለምንት\bd*\bd  \bd*\bd ትብሉኒ\bd*\bd  \bd*\bd እግዚኦ\bd*\bd  \bd*\bd እግዚኦ።\bd*\bd  \bd*\bd ማቴ\bd*\bd  \bd*\bd ፯፥፳፩።\bd*\bd  \bd*\bd ሮሜ\bd*\bd  \bd*\bd ፪፥፲፫።\bd*\bd  \bd*\bd ያዕ\bd*\bd  \bd*\bd ፩፥፳፪።\bd*
+\m ፵፮፡ ለምን አቤቱ አቤቱ ትሉኛላችሁ።
+\m \bd ወኢትገብሩ\bd*\bd  \bd*\bd ዘእቤለክሙ።\bd*
+\m የምነግራችሁን አትሠሩትም።
+\m \bd ፵፯፡\bd*\bd  \bd*\bd ኵሉ\bd*\bd  \bd*\bd ዘይመጽእ\bd*\bd  \bd*\bd ኀቤየ\bd*\bd  \bd*\bd ይሰምዓኒ\bd*\bd  \bd*\bd ቃልየ\bd*\bd  \bd*\bd ወይገብሮን\bd*\bd  \bd*\bd አርዕየክሙ\bd*\bd  \bd*\bd ዘይመስል።\bd*
+\m ፵፯፡ ወደ እኔ የሚመጣ ነገሬን ሰምቶ የሚሠራው ሁሉ የሚመስለውን አሳያችኋለሁ።
+\m \bd ፵፰፡\bd*\bd  \bd*\bd ይመስል\bd*\bd  \bd*\bd ብእሴ\bd*\bd  \bd*\bd ጠቢበ\bd*\bd  \bd*\bd ዘሐነጸ\bd*\bd  \bd*\bd ቤቶ\bd*\bd  \bd*\bd ወከረየ\bd*\bd  \bd*\bd ወአዕመቀ\bd*\bd  \bd*\bd ወሣረረ\bd*\bd  \bd*\bd መሠረቶ\bd*\bd  \bd*\bd ዲበ\bd*\bd  \bd*\bd ኰኵሕ።\bd*
+\m ፵፰፡ አጥብቆ ቆፍሮ መሠረቱን ከጭንጫ ላይ መሥርቶ ቤቱን የሚሠራን ብልህ ሰውን ይመስላል።
+\m \bd ወብዙኃን\bd*\bd  \bd*\bd አፍላግ\bd*\bd  \bd*\bd መጺኦሙ\bd*\bd  \bd*\bd ገፍዕዎ\bd*\bd  \bd*\bd ወሐይዝት\bd*\bd  \bd*\bd ለውእቱ\bd*\bd  \bd*\bd ቤት።\bd*
+\m ብዙ ጐርፍ በፈሰሰ ጊዜ ፈሳሾች ያንን ቤት ገፉት።
+\m \bd ወኢክህሉ\bd*\bd  \bd*\bd አንቀልቅሎቶ።\bd*
+\m አላናወጡትም።
+\m \bd እስመ\bd*\bd  \bd*\bd ዲበ\bd*\bd  \bd*\bd ኰኵሕ\bd*\bd  \bd*\bd ተሣረረ።\bd*
+\m ከጭንጫ ላይ ተመሥርቷልና።
+\m \bd ፵፱፡\bd*\bd  \bd*\bd ወዘሰ\bd*\bd  \bd*\bd ይሰምዓኒ\bd*\bd  \bd*\bd ቃልየ\bd*\bd  \bd*\bd ወኢይገብሮ\bd*\bd  \bd*\bd ይመስል\bd*\bd  \bd*\bd ብእሴ\bd*\bd  \bd*\bd ዘሐነጸ\bd*\bd  \bd*\bd ቤቶ\bd*\bd  \bd*\bd መልዕልተ\bd*\bd  \bd*\bd ምድር\bd*\bd  \bd*\bd ዘእንበለ\bd*\bd  \bd*\bd መሠረት።\bd*\bd  \bd*
+\m ፵፱፡ ቃሌን ሰምቶ የማይሠራው ግን ሳይመሠርት ቤቱን በምድር ላይ የሚሠራ ሰውን ይመስላል።
+\m \bd ወገፍዕዎ\bd*\bd  \bd*\bd ወሐይዝት።\bd*
+\m ፈሳሾች ገፉት።
+\m \bd ወወድቀ\bd*\bd  \bd*\bd ሶቤሃ።\bd*
+\m ያንጊዜውን ወደቀ።
+\m \bd ወኮነ\bd*\bd  \bd*\bd ድቀቱ\bd*\bd  \bd*\bd ዓቢየ።\bd*
+\m መውደቁም ታላቅ ሆነ።
+\b 

@@ -1,0 +1,186 @@
+\c 1 
+\m \bd <<\bd*\bd ሃይማኖት\bd*\bd  \bd*\bd መሰረት\bd*\bd  \bd*\bd ናት\bd*\bd  \bd*\bd የቀሩት\bd*\bd  \bd*\bd ግድግ\bd*\bd ዳ\bd*\bd ና\bd*\bd  \bd*\bd ጣራ\bd*\bd  \bd*\bd ናቸው\bd*\bd ::\bd*\bd >\bd*\bd >\bd*\bd ቅዱስ\bd*\bd  \bd*\bd ዮሐንስ\bd*\bd  \bd*\bd አፈወርቅ\bd*
+\m \bd ምዕራፍ\bd*\bd  \bd*\bd አንድ\bd*
+\m \bd ትምህርተ\bd*\bd  \bd*\bd ሃይማኖት\bd*
+\m \bd <<\bd*\bd ከሁሉ\bd*\bd  \bd*\bd አስቀስሞ\bd*\bd  \bd*\bd የሃይማኖትን\bd*\bd  \bd*\bd ትምህርት\bd*\bd  \bd*\bd መማር\bd*\bd  \bd*\bd ይገባል\bd*\bd >>\bd*\bd 318ቱ \bd*\bd ሊቃውንት\bd*
+\m \bd <<\bd*\bd ሃይማኖት\bd*\bd  \bd*\bd መሰረት\bd*\bd  \bd*\bd ምግባር\bd*\bd  \bd*\bd ህንፃ\bd*\bd  \bd*\bd ነውና\bd*\bd  \bd*\bd >>\bd*\bd 1\bd*\bd ኛ\bd*\bd ቆሮ 3÷10\bd*
+\m \bd 1.\bd*\bd 1 \bd*\bd ትምህርተ\bd*\bd  \bd*\bd ሃይማኖት\bd*\bd  \bd*\bd መግቢያ\bd*
+\zuli1 \bd የሃይማኖት\bd*\bd  \bd*\bd ትርጉም\bd*\bd  (\bd*\bd ሃይማኖት\bd*\bd  \bd*\bd ማለት\bd*\bd  \bd*\bd ምን\bd*\bd  \bd*\bd ማለት\bd*\bd  \bd*\bd ነው\bd*\bd )\bd*
+\b 
+\p_ListParagraph \bd የሃይማኖት\bd* ትርጉምን በሁለት ከፍሎ ማየት ይችላል 
+\zuli1 \bd የመዝገብ\bd*\bd  \bd*\bd ቃላት\bd*\bd  \bd*\bd ትርጉም\bd*\bd  \bd*
+\zuli1 ሃይማኖት ቃሉ ‹‹ሃይመነ፣ አመነ ›› ከሚለው የግዕዝ ግሰ የተገኘ ሲሆን ትርጉሙም ፡
+\p_ListParagraph ማመን ፡ መታመን፡ ተአማኒነት ማለት ነው፡፡
+\zuli1 \bd ማመን\bd* ፡ሰንል ‹‹ይህቺ አለም አሰገኚ ፈጣሪ መጋቢ የሆነ አለምን ከመፍጠሩ
+\p_ListParagraph                በፊት የነበረ አለምንም አሳልፎ የሚኖር ዘላለማዊ የሆነ አንድ
+\p_ListParagraph    እግዚአብሔር አምላክ አለ ብሎ ማመን
+\zuli1 \bd መታመን\bd*፡- ያመኑትን ነገር መመሰከር እና ላመኑት ነገር መገዛት 
+\p_ListParagraph ሮሜ 10፥9 <<ኢየሱሰ ክርሰቶስ ጌታ እንደሆነ 
+\p_ListParagraph \bd           \bd*\bd በአፍህ\bd*\bd  \bd*\bd ብትመሰር\bd*\bd …\bd*\bd >>\bd* መታመንን
+\zuli1 \bd ተአማ\bd*\bd ኒ\bd*\bd ነት\bd* ፡-ያመኑት ነገር ያለምንም ጥርጥር የምፈልገውን ነገር
+\p_ListParagraph ይደርግልኛልብሎ ማመን (ተሰፋ ማድረግ)
+\zuli1 \bd ምስጢራ\bd*\bd ዊ\bd*\bd ፍቺ\bd*\bd  \bd*\bd ትርጉም\bd*\bd  (\bd*\bd የሃይማኖት\bd*\bd  \bd*\bd መግላጫዎች\bd*\bd )\bd*
+\zuli1 ሃይማኖት ዝም ብለን የምንቀበለው ነው፡፡
+\zuli1 ዝም ብለን የምንቀበለው ነው ስንል
+\p_ListParagraph ሃይማኖት ወይም እምነት ከስሜት በላይ ነው በዓይነሰጋ ታይቶለሚያየው በእጅ የማይዳስሰው አምላክ አለ ብሎ ማመንን የተመለከተነው፡፡
+\zuli1 በሳይንሰ ለማመን ማየት ይቀድማል፡፡
+\zuli1 ኤፌ 4፥13 በማመንና በማወቅ 
+\zuli1 የእግዚአብሔር ህልውና በስሜት ህዋሳችን የማንረዳው ሰለሆነ ነው፡፡
+\zuli1 ሃይማኖት በተሰፋ የምንረዳው ነው ስንል
+\p_ListParagraph \bd ዕብ\bd*\bd  11\bd*\bd ፥\bd*\bd 1፡-\bd*\bd እምነትም\bd*\bd  (\bd*\bd ሃይማኖት\bd*\bd )\bd*\bd ተሰፋ\bd*\bd  \bd*\bd ሰለምናደረገው\bd*\bd  \bd*\bd ነገር\bd*\bd  \bd*\bd የሚያሰረግጥ\bd*\bd  \bd*\bd የ\bd*\bd ማ\bd*\bd ና\bd*\bd የውንም\bd*\bd  \bd*\bd ነገር\bd*\bd  \bd*\bd የሚያሰረዳ\bd*\bd  \bd*\bd ነው\bd*\bd ፡፡\bd*
+\zuli1 ይህ ማለት ስለዘላለማዊ ሕይወት ስለመንግሰት ሰማያት በአይናችን አይተን በእጃችን ዳሰን በስሜት ህዋሶቻችን መርምርን የምንናገርው የምንመሰክረው ሳይሆን በተሰፋ አምነን የምንናገረው ነው፡፡
+\zuli1  ሃይማኖት የማናየውን የምናይበት ረቂቅ መሳሪያ ነው፡፡
+\p_ListParagraph \bd 2ቆሮ 12\bd*\bd ፥\bd*\bd 2-7 \bd*ቅዱሰ ጳውሎስ ሶስተኛ ሰማይ ድረሰ የተነጠቀው
+\p_ListParagraph \bd ዕብ\bd*\bd  11\bd*\bd ፥\bd*\bd 1-7 \bd*የማናየውን ነገር የምናይበት የሚያሰረዳው
+\zuli1 ሃይማኖት በስራ የምንተረጉመው ነው፡፡ አብርሃም (አበ ብዘኃን)
+\zuli1 \bd ሃይማኖት\bd* በፍቅር የተገለጠ ነው ፡፡ \bd ዮ\bd*\bd ሐ\bd*\bd  3\bd*\bd ፥\bd*\bd 16\bd*
+\zuli1 ሃይማኖት እግዚአብሔርን ደሰ የምናሰኝበት መንገድ ነው ፡፡
+\p_ListParagraph \bd ማቴ\bd*\bd  22\bd*\bd ፥\bd*\bd 37\bd*\bd  \bd*\bd ዕብ\bd*\bd  11\bd*\bd ፥\bd*\bd 5-\bd*\bd 6 \bd*\bd ያ\bd*\bd ለ\bd*\bd  \bd*\bd እምነት\bd*\bd  (\bd*\bd ሃ\bd*\bd ይ\bd*\bd ማኖ\bd*\bd ት\bd*\bd ) \bd*\bd እ\bd*\bd ግዚአብ\bd*\bd ሔ\bd*\bd ርን\bd*\bd ደሰ\bd*\bd  \bd*\bd ማሰኘት\bd*\bd  \bd*\bd አይ\bd*\bd ቻ\bd*\bd ልም\bd*\bd ፡፡\bd*\bd ዕ\bd*\bd ብ\bd*\bd  12\bd*\bd ፥\bd*\bd 28-29    1ጰጥ2\bd*\bd ፥\bd*\bd 1-5    \bd*
+\zuli1 ሃይማኖት፡-በእግዚአብሔር መገለጥ ላይ የተመሰረተ ነው፡፡
+\p_ListParagraph \bd 1\bd*\bd ኛ \bd*\bd ጢሞ\bd*\bd  3፡17\bd*
+\m \bd ሃይማኖት\bd*\bd  \bd*\bd እንዴትና\bd*\bd  \bd*\bd መቼ\bd*\bd  \bd*\bd ተጀመረ\bd*\bd ? \bd*
+\zuli1 ሃይማኖት የተጀመረው ቅዱሳን መለዕክት እንደተፈጠሩ ነው፡፡
+\zuli1 \bd ሀልወተእግዚአብሔርእንዴት\bd*\bd  \bd*\bd እናውቃለን\bd*
+\p_ListParagraph \bd      \bd*\bd የ\bd*\bd ፈጣሪን\bd*\bd መኖር\bd*\bd  \bd*\bd እንዴት\bd*\bd  \bd*\bd እንናውቃለን\bd*\bd ?\bd*
+\b 
+\p_ListParagraph \bd የሰው\bd* ልጁ  በተፍጥሮ በተሰጠው እውቀት አእምሮ ፈጣሪውን የማመን ዝንባሌ ቢኖረውም የሰው እውቀት እጅግ ውስን በመሆኑ እግዚአብሔር ካልገለጸለት በስተቀር በልዩ ልዩ መንገድ በራሱ ተመረምሮ ማወቅ አይችልም፡፡እግዚአብሔር ግን በወደደው መልኩ ህልውናውን(አኗኗሩን) ለፍጥረታት የሚገልጥባቸው ነገሮች የሚከተሉት ናቸው፡፡
+\m \bd 1\bd*\bd በ\bd*\bd ሥነፍጥረት /\bd*\bd የፍጥረት\bd*\bd  \bd*\bd ሰነ\bd*\bd  \bd*\bd ሥርዓትና\bd*\bd  \bd*\bd አሠራር\bd*\bd /  \bd*
+\m \bd መዝ\bd* 18፥1\bd ሰማያት \bd*\bd የእግዚአብ\bd*\bd ሔ\bd*\bd ርን\bd*\bd  \bd*\bd ክብር\bd*\bd  \bd*\bd ይናገራሉ\bd*\bd  \bd*\bd የሰማይም\bd*\bd  \bd*\bd ጠፈር\bd*\bd  \bd*\bd የእጁን\bd*\bd  \bd*\bd ስራ\bd*\bd  \bd*\bd ያወራል\bd*
+\m \bd ሮሜ\bd* 1፥20-21\bd  \bd*\bd የማይታው\bd*\bd  \bd*\bd ባ\bd*\bd ሕ\bd*\bd ርይ\bd*\bd  \bd*\bd እርሱም\bd*\bd  \bd*\bd የዘላለም\bd*\bd  \bd*\bd ኃ\bd*\bd ይሉ\bd*\bd  \bd*\bd ደግሞም\bd*\bd  \bd*\bd አምላክነቱ\bd*\bd  \bd*\bd ከአለም\bd*\bd  \bd*\bd ፍጥረት\bd*\bd  \bd*\bd ጀምሮ\bd*\bd  \bd*\bd ከተሰሩት\bd*\bd  \bd*\bd ታውቆ\bd*\bd  \bd*\bd ግልጥ\bd*\bd  \bd*\bd ሆኖ\bd*\bd  \bd*\bd ይታያልና\bd*\bd ፡፡   \bd*
+\m \bd መ.\bd*ኢዩ 12፥7-9\bd  \bd*\bd አሁን\bd*\bd  \bd*\bd ግን\bd*\bd  \bd*\bd እንስ\bd*\bd ሶ\bd*\bd ችን\bd*\bd  \bd*\bd ጠይቅ\bd*\bd  \bd*\bd ይነግሩህምል\bd*\bd …\bd*\bd የ\bd*\bd እግዚአብ\bd*\bd ሔ\bd*\bd ር\bd*\bd  \bd*\bd እጅ\bd*\bd  \bd*\bd ይህንን\bd*\bd  \bd*\bd እን\bd*\bd ዳ\bd*\bd ደ\bd*\bd ረገ\bd*
+\m ምሳሌ ፡- አበ ብዙሃን አብርሃም
+\m \bd በአጠቃ\bd*\bd ላይ\bd*\bd  \bd*\bd የማይለውጥና\bd*\bd  \bd*\bd የማይ\bd*\bd ዛባ\bd*\bd  \bd*\bd የሥነፍጥረት\bd*\bd  \bd*\bd ሥርዓት\bd*\bd  \bd*\bd ያለው\bd*\bd  \bd*\bd ዓለም\bd*\bd  \bd*\bd ለ\bd*\bd እግዚአብ\bd*\bd ሔ\bd*\bd ር\bd*\bd  \bd*\bd መኖርምስ\bd*\bd ክ\bd*\bd ር\bd*\bd  \bd*\bd ነው\bd*\bd ፡፡ \bd*
+\m \bd 2የህሊና \bd*\bd ምሰክርነት\bd*\bd  \bd*
+\zuli1 \bd ሕሊና\bd*\bd  \bd*\bd ማለት\bd*\bd  \bd*በሰውነት ውሰጥ የሚገኝግብረ ገባዊ የሰሜት አካል ነው፡፡
+\m \bd ሮሜ\bd*\bd  2\bd*\bd ፥\bd*\bd 14-15 \bd*\bd …\bd*\bd ሕሊ\bd*\bd ናቸው\bd*\bd  \bd*\bd ሲ\bd*\bd መሰክርላቸው\bd*\bd  \bd*\bd ሃሳባቸውም\bd*\bd  \bd*\bd እርሰ\bd*\bd   \bd*\bd በእርሰ\bd*\bd  \bd*\bd ሲካሰስ\bd*
+\m \bd 3 \bd*\bd የሰው\bd*\bd  \bd*\bd ልጅ\bd*\bd  \bd*\bd የተፍጥሮ\bd*\bd  \bd*\bd ዝንባሌ\bd*
+\zuli1 በተለያዩ የዓለም ክፍሎች ያሉ የሰው ልጆች በሙሉ በአምልኮትሥርዓታቸው እና በሚያመልኩት ነገር ይለያይ እንጂ አምላክ መኖሩን ያምናሉ ሰለዚህ ሰው የእግዚአብሔርን
+\p_ListParagraph መኖር የሚያምነው የሃይማኖት መድሐፍትን አንብቦ ብቻ ሳይሆን የተፍጥሮ ሰሜት ወይም ዝንባሌው ሰለ ሚያሰገድደው ጭምሮ ነው፡፡
+\m \bd ሐዋ\bd*\bd  17፡22-34 \bd*\bd ቅድሰ\bd*\bd  \bd*\bd ጳውሎስ\bd*\bd  \bd*\bd በአቴና\bd*\bd  \bd*\bd ከተማ\bd*\bd  \bd*\bd ውሰጥ\bd*\bd  \bd*\bd በሚገኘው\bd*\bd  \bd*\bd ኦ\bd*\bd ርዮ\bd*\bd ሰፈ\bd*\bd ጎ\bd*\bd ስ\bd*\bd  \bd*\bd በተባለ\bd*\bd  \bd*\bd የአምልኮ\bd*\bd  \bd*\bd ቤት\bd*\bd  \bd*\bd ለማይታወቅ\bd*\bd  \bd*\bd አምላክ\bd*\bd  \bd*\bd ተብሎ\bd*\bd  \bd*\bd ተ\bd*\bd ጽ\bd*\bd ፎ\bd*\bd  \bd*\bd ያገኘውን\bd*\bd  \bd*\bd ፅሑፋ\bd*\bd  \bd*\bd መነሻ\bd*\bd  \bd*\bd አድርጎ\bd*\bd  \bd*\bd የክርስትና\bd*\bd  \bd*\bd እምነትን\bd*\bd  (\bd*\bd ሃይማኖት\bd*\bd  )\bd*\bd በመስበ\bd*\bd ክ\bd*\bd  \bd*\bd ብዙዎችን\bd*\bd  \bd*\bd ለ\bd*\bd ማ\bd*\bd ሳ\bd*\bd መ\bd*\bd ን\bd*\bd  \bd*\bd የ\bd*\bd በቃ\bd*\bd ው\bd*
+\m \bd 4፡-\bd*\bd በመግቦቱ\bd*\bd  \bd*
+\m \bd 5:-\bd*\bd የቃለ\bd*\bd  \bd*\bd እግዚአብ\bd*\bd ሔ\bd*\bd ር\bd*\bd  \bd*\bd የታሪክ\bd*\bd  \bd*\bd ምሰክርነት\bd*
+\p_ListParagraph \bd አሰማተ\bd*\bd  \bd*\bd መለኮት\bd*\bd  /\bd*\bd የአምላክ\bd*\bd  \bd*\bd ሰሞች\bd*\bd /\bd*
+\m 1\bd  \bd*\bd እግዚአብ\bd*\bd ሔ\bd*\bd ር\bd*\bdit  ፡- \bdit*\ul እግዚ\ul*-ጌታ፣\ul አብ\ul*-አባት ፣\ul ሔር\ul*-ቸር መሐሪ ሲሆን ጌታ ብሎ ወልድን አባት ብሎ አብንሔር ብሎ መንፈስ ቅዱስን ይገልጽልናል፡፡ በሌላ መልኩ \ul እግዚአ\ul* ጌታ ፣\ul ብሔር\ul* ሁሉ ስለዚህ እግዚአብሔር የሁሉ ጌታ ተብሎ ይተረጎማል
+\m 2\bd  \bd*\bd ኤል\bd* የዕብራይስጥ ቃል ሲሆን ኃያል አምላክ ማለት ነው፡፡
+\m 3 \bd ኤልሻዳይ\bd*\bd  \bd*የዕብራይስጥ ቃል ሲሆን ሁሉን ቻይ ማለት ነው
+\m 4 \bd አዶናይ\bd* ጌታ ገዢ ማለጽ ነው አልፋና ኦሜጋ \bd ራ.ዮሐ\bd*\bd  1-8\bd*
+\m 5 \bd ያህዌ\bd* ያለና የሚኖር ማለት ነው
+\m \bd የእግዚአብ\bd*\bd ሔ\bd*\bd ር\bd*\bd  \bd*\bd ባህርያት\bd*
+\m \bd 1 \bd*\bd መንፈሰ\bd*\bd  \bd*\bd ነው\bd*፡-ከውሃ-እሳት-ነፍሰ-መላዕክት-ከመላዕክት-ሃሳባችው ትረቃለች የእግዚአብሔር                         መንፈስ ደግሞ ከእነዚህ ሁሉ የረቀቀ ነው
+\m \bd 2 \bd*\bd ዘላለማዊ\bd*\bd  \bd*\bd ነው\bd*
+\m \bd 3ሁሉን \bd*\bd ቻይ\bd*\bd  \bd*\bd ነው\bd*\bd  (\bd*\bd ከኅሌ\bd*\bd  \bd*\bd ኩሉ\bd*\bd )\bd*
+\m \bd 4በሁሉ \bd*\bd ሙሉ\bd*\bd  \bd*\bd ነው\bd*\bd  (\bd*\bd ሙልዕ\bd*\bd  \bd*\bd በኩሉ\bd*\bd )\bd*
+\m \bd 5ሁሉን \bd*\bd አዋቂ\bd*\bd  \bd*\bd ነው\bd*
+\m \bd 6ምንም \bd*\bd እረዳት\bd*\bd  \bd*\bd አያሰፈልገውም\bd*
+\m \bd 7ቅዱስ \bd*\bd ነው\bd*
+\m \bd 8\bd*\bd  \bd*\bd ፃድቅ\bd*\bd  - \bd*\bd እውነተኛ\bd*
+\m \bd ሥነ\bd*\bd  \bd*\bd ፍጥረት\bd*\bd  \bd*
+\zuli1 \bdit ሥነ-ፍጥረት\bdit*\bdit  \bdit*\bdit ማለት\bdit*\bdit  \bdit*\bdit ያማረ\bdit*\bdit  \bdit*\bdit የተዋበ\bdit*\bdit  \bdit*\bdit ፍጥረት\bdit*\bdit  \bdit*\bdit ማለት\bdit*\bdit  \bdit*\bdit ነው\bdit*\bdit ፡፡ \bdit*
+\zuli2 \bdit የተስማማ\bdit*\bdit  \bdit*\bdit ሥ\bdit*\bdit ነ\bdit*\bdit  \bdit*\bdit ፍጥረት\bdit*\bdit  \bdit*\bdit ማለት\bdit*\bdit  \bdit*\bdit ነው\bdit*\bdit ፡፡\bdit*
+\m \bd ዘፍ1\bd*\bd 3፡- ‹‹\bd*\bd እግዚአብሔር\bd*\bd  \bd*\bd የፈጠረው\bd*\bd  \bd*\bd ሁሉ\bd*\bd  \bd*\bd መልካም\bd*\bd  \bd*\bd እንደሆነ\bd*\bd  \bd*\bd አየ\bd*\bd ›› \bd*
+\zuli1 በአጠቃላይ የሥነፍጥረት ትምህርት እግዚአብሔር የፈጠረው ፍጥረት የፈጠረበትን ሥርዓት የምንማርበት ትምህርት ነው፡፡
+\zuli2 \bd የሥነ\bd*\bd  \bd*\bd ፍጥረት\bd*\bd  \bd*\bd ትምህርት\bd*\bd  \bd*\bd መማር\bd*\bd  \bd*\bd ለምን\bd*\bd  \bd*\bd ያስፈልጋል\bd*\bd ?\bd*
+\zoli1 \bd በአጭሩ\bd* ግን የፍቅሩ መገለጫዎች ናቸው፡፡ 
+\m \bd የ\bd*\bd ሕ\bd*\bd ይወትን\bd*\bd  \bd*\bd አላማ\bd*\bd  \bd*\bd ለመረዳት\bd*\bd  \bd*
+\zuli1 ሰውንና መላዕክትን ስሙን ለመቀደስ ክብሩንም ለመውረስ    
+\zuli1 የተቀሩት ለአንክሮ ለተዘክሮ ለምግበ ስጋና ለምግበ ነፍስ 
+\zoli1 \bd ሥነ-ፍጥረት\bd*\bd  \bd*\bd እግዚአብሔርን\bd*\bd  \bd*\bd ያሳ\bd*\bd ውቃል\bd*\bd  \bd*
+\zuli1 ሥነ-ፍጥረት መኖሩን ብቻ ሳይሆን ባሕርይውንም ያስተምሩናል፡፡ 
+\p_ListParagraph በተለይ ስለ ሰው አፈጣጠርና ባሕርይ ማወቅ ምስጢር ሥጋዌንና ምስጢረ ሥላሴን ለመረዳት ጠቃሚ እንደሆነ ወደፊት ባሉት ክፍሎች የምናየው ይሆናል፡፡ 
+\zoli1 \bd በሥነ-ፍጥረት\bd*\bd  \bd*\bd ትምህርት\bd*\bd  \bd*\bd ሰውና\bd*\bd  \bd*\bd መላዕክት\bd*\bd  \bd*\bd ከፍጥረ\bd*\bd ታ\bd*\bd ት\bd*\bd  \bd*\bd ተለይቶ\bd*\bd  \bd*\bd ያላቸውን\bd*\bd  \bd*\bd ክብ\bd*\bd ር\bd*\bd  \bd*\bd እናውቃለን\bd*\bd ፡፡ \bd*
+\zuli1 \bd እግዚአብሔር\bd*\bd  \bd*\bd አምላክ\bd*\bd  \bd*\bd ሥነ-ፍጥረቱን\bd*\bd  \bd*\bd የፈጠረበት\bd*\bd  \bd*\bd መንገድ\bd*\bd  \bd*
+\zoli1 \bd እም\bd*\bd  \bd*\bd ኀበ\bd*\bd  \bd*\bd አልቦ\bd*\bd  \bd*\bd ኀበ\bd*\bd  ቦ (\bd*\bd ካለመኖር\bd*\bd  \bd*\bd ወደ\bd*\bd  \bd*\bd መኖር\bd*\bd ) (\bd*\bd ሐዲስ\bd*\bd  \bd*\bd ተፈጥሮ\bd*\bd ፣ \bd*\bd ጥንተ\bd*\bd  \bd*\bd ተፈጥሮ\bd*\bd  \bd*\bd ይባላል\bd*\bd )\bd*
+\zoli1 \bd ግብር\bd*\bd  \bd*\bd እምግብር\bd*
+\zuli1 \bd ሥነ-ፍጥረት\bd*\bd  \bd*\bd የተገኙበት\bd*\bd  \bd*\bd መንገድ\bd*\bd  \bd*
+\zoli1 \bd በኋልዮ\bd*\bd  (\bd*\bd በማሰብ\bd*\bd ) (\bd*\bd በዝምታ\bd*\bd ፣ \bd*\bd በአርምሞ\bd*\bd )\bd*
+\zoli1 \bd በነበብ\bd*\bd  (\bd*\bd በመናገር\bd*\bd )\bd*
+\zoli1 \bd በገቢር\bd*\bd  (\bd*\bd በመስራት\bd*\bd )\bd*
+\m \bd የስድስቱ\bd*\bd  \bd*\bd ቀን\bd*\bd  \bd*\bd ፍጥረታት\bd*\bd  \bd*
+\zoli1 \bd የእለ\bd*\bd ተ\bd*\bd  \bd*\bd እ\bd*\bd ሑ\bd*\bd ድ\bd*\bd  \bd*\bd ፍጥረታት\bd*\bd  \bd*
+\zuli1 የእለተ እሑድ ፍጥረታት በአጠቃላይ ካለመኖር ወደመኖር የተገኙ (የተፈጠሩ) ናቸው፡፡ 
+\zuli1 በዚህ እለት 8 ፍጥረታትን ፈጥሯል
+\zuli2 አራቱ ባሕሪያተ ስጋ (ነፋስ፣ እሳት፣ መሬት፣ ውኃ)
+\zuli2 ብርሃን 
+\zuli2 ጨለማ 
+\zuli2 ሰባቱ ሰማያት 
+\zuli2 መላዕክት 
+\zuli2 ጽርሐ፣ አርያም 
+\zuli2 መንበረ፣ መንግስት 
+\zuli2 ሰማይ፣ ውዱድ 
+\zuli2 ኢየሩሳሌም ሰማያዊ 
+\zuli2 የመላዕክት ከተማ (አለመ መለዕክት የመላዕክት ሀገር)
+\m እዮር 
+\zuli2 ራማ 
+\zuli2 ኤረር 
+\zuli1 መላዕክት - በከተማ 10 - በእዮር - 4 
+\zuli1 በራማ - 3 
+\zuli1 በኤር - 3 
+\zuli1 በነገድ  100 - አድርጎ አስፍሯቸዋል 
+\b 
+\zoli1 \bd የእለተ\bd*\bd  \bd*\bd ሰኑይ\bd*\bd  (\bd*\bd ሰኞ\bd*\bd ) \bd*\bd ፍጥረታት\bd*\bd  \bd*
+\zuli1 በዚህ እለት አንድ ፍጥረት ፈጠረ
+\zuli1 የዚህ እለት ፍጥረት ግብር እምግብር ፡፡ ከተገኘ ነገር ነው 
+\zuli1 ከምድር እስከ ኤረር መልቶ የነበረውን ውኃ ለሦስት ከፈለው 
+\zuli2 በአየር ላይ አርግቶ \bd ጠፈር\bd*አለው፡፡ 
+\zuli2 ከጠፈር በላይ የቀረውን ውሃ \bd ሀኖስ\bd*
+\zuli2 ከጠፈር በታች ያለውን ውሃ \bd ውቅያኖ\bd*\bd ስ\bd* ብሎጠራው 
+\zoli1 \bd የእለተ\bd*\bd  \bd*\bd ሰሉስ\bd*\bd  (\bd*\bd ማክሰኞ\bd*\bd ) \bd*\bd ፍጥረት\bd*\bd  \bd*
+\zuli1 በዚህ እለት ሶስት ፍጥረታትን ፈጥሯል 
+\zuli2 በእጅ የሚለቀሙ አትክልትን 
+\zuli2 በማጭድ የሚታጨድ አዝርዕት 
+\zuli2 በምሳር (በመጥረቢያ) የሚቆረጡ ዛፎች (እፅዋት)
+\zoli1 \bd የእለተ\bd*\bd  \bd*\bd ረቡዕ\bd*\bd  \bd*\bd ፍጥረታት\bd*\bd  \bd*
+\zuli1 በዚህ እለት ሶስት ፍጥረታን ፈጥሯል፡፡ 
+\zuli1 በዚህ እለት እለተ እሑድ ተፈጥሮ \bd የነበረውን\bd*\bd  \bd*\bd ብ\bd*\bd ርሃን\bd*\bd  \bd*\bd ወደ\bd*\bd  \bd*\bd ሶስት\bd*\bd  \bd*\bd ቅርፅ\bd*\bd  \bd*\bd ቀይሮታል\bd*\bd  \bd*አስቀምጦአል (ብርሃን ይሁን) ዘፍ114-16
+\zuli2 ፀሐይ 
+\zuli2 ጨረቃ 
+\zuli2 ከዋክብት 
+\zoli1 \bd የእለተ\bd*\bd  \bd*\bd ሐሙስ\bd*\bd  \bd*\bd ፍጥረታት\bd*\bd  \bd*
+\zuli1 በዚህ እለት ሶስት ፍጥረታትን ፈጥሯል 
+\zuli2 ከውሃ ውስጥ የሚኖሩ 
+\zuli3 በደረታቸው የሚሳቡ 
+\zuli3 በእግራቸው የሚራመዱ (የሚሽከረከሩ) 
+\zuli3 በክንፋቸው የሚበሩ
+\b 
+\zoli1 \bd የእለተ\bd*\bd  \bd*\bd አርብ\bd*\bd  \bd*\bd ስነ\bd*\bd  \bd*\bd ፍጥረት\bd*\bd  \bd*
+\zuli1 \bd በዚህ\bd*\bd  \bd*\bd እለት\bd*\bd  \bd*\bd አራት\bd*\bd  \bd*\bd ፍጥረታትን\bd*\bd  \bd*\bd ፈጠረ\bd*\bd  \bd*
+\zuli2 በየብስ (መሬት) ላይ የሚኖሩ (በዓይነት)
+\zuli3 በደረታቸው የሚሳቡ እንስሳት       እንስሳት
+\zuli3 በእግራቸው የሚራመዱ            አራዊት
+\zuli3 በክንፋቸው የሚበሩ (በእንቅስቃሴ)    አእዋፍ
+\zuli1 \bd የመጨረሻው\bd*\bd  \bd*\bd የእለተ\bd*\bd  \bd*\bd አርብ\bd*\bd  \bd*\bd አራተኛው\bd*\bd  \bd*\bd ፍጥረት\bd*\bd  \bd*\bd የሰው\bd*\bd  \bd*\bd ልጅ\bd*\bd  \bd*
+\zuli2 ለሰው የሚያስፈልገውንከፈጣረበኃላ 
+\zuli2 ሰውን በመልካቸው አምሳል ፈጥረውታል(ሥላሴ)፡፡ 
+\zoli1 \bd የሰው\bd*\bd  \bd*\bd ልጅ\bd*\bd  \bd*\bd አፈጣጠር\bd*\bd  \bd*\bd ከአራቱ\bd*\bd  \bd*\bd ባህሪያቱ\bd*\bd  \bd*\bd ስጋ\bd*\bd  \bd*\bd እ\bd*\bd ና\bd*\bd  \bd*\bd ከሶ\bd*\bd ስ\bd*\bd ቱ\bd*\bd  \bd*\bd ባህሪያተ\bd*\bd  \bd*\bd ነፍስ\bd*\bd  \bd*
+\zuli1 የመጀመሪያው ሰው አዳምን የ30 ዓመት ጎልማሳ አድርገው በማዕከለምድር (በምድር መካከል በቀራንዮ ፈጠሩት)
+\zuli1 አራቱ ባህሪያ ስጋ - ከእሳት፣ ከመሬት፣ ከነፍስ፣ ከውኃ 
+\zuli1 ሦስቱ ባህሪያተ ነፍስ - ነባቢነት፣ ሕያውነት፣ ልባዊነት 
+\zuli2 ልባዊነት - አዋቂነት 
+\zuli2 በሕያውነቷ - ዘላለማዊነትን 
+\zuli2 በነባቢነት - ተናጋሪነት 
+\zuli1 በሰባተኛው ቀን እግዚአብሔር ከሥራው ሁሉ አረፈ፡፡ 
+\pc \bd አ\bd*\bd ዕ\bd*\bd ማደ\bd*\bd  \bd*\bd ምስጢር\bd*
+\zuli1 \bd አ\bd*\bd ዕ\bd*\bd ማደ\bd*\bd  \bd*\bd ምስጢር\bd*\bd  \bd*\bd የምንላቸው\bd*\bd  \bd*\bd በቁጥር\bd*\bd  5 \bd*\bd ናቸው\bd*\bd ፡፡ \bd*
+\zoli1 ምስጢረ ሥላሴ 
+\zoli1 ምስጢረ ሥጋዌ 
+\zoli1 ምስጢረ ጥምቀት 
+\zoli1 ምስጢረ ቁርባን 
+\zoli1 ምስጢረ ትንሳኤ ሙታን
+\pc \bd ለምነ\bd*\bd  \bd*\bd አምስት\bd*\bd  \bd*\bd ሆኑ\bd*\bd ?\bd*
+\zuli1 \bd 1 \bd*\bd ቆሮ\bd*\bd  14\bd*\bd 19፡- ‹‹ \bd*\bd ከሁላችሁ\bd*\bd  \bd*\bd ይልቅ\bd*\bd  \bd*\bd በልሳኖች\bd*\bd  \bd*\bd እናገራለሁ\bd*\bd  \bd*\bd እግዚአብሔርንም\bd*\bd  \bd*\bd አመሰግናለሁ\bd*\bd  \bd*\bd ነገር\bd*\bd  \bd*\bd ግ\bd*\bd ን\bd*\bd  \bd*\bd ሌሎችን\bd*\bd  \bd*\bd ደግ\bd*\bd  \bd*\bd አስተምር\bd*\bd  \bd*\bd ዘንድ\bd*\bd  \bd*\bd በማኅበር\bd*\bd  \bd*\bd እልፍ\bd*\bd  \bd*\bd ቃላት\bd*\bd  \bd*\bd በልሳን\bd*\bd  \bd*\bd ከመናገር\bd*\bd  \bd*\bd ይልቅ\bd*\bd  \bd*\bd አምስት\bd*\bd  \bd*\bd ቃላት\bd*\bd  \bd*\bd በአእምሮዬ\bd*\bd  \bd*\bd ልናገር\bd*\bd  \bd*\bd እወዳለ\bd*\bd ሁ\bd*\bd ›› \bd*
+\zuli1 \bd አእማድ\bd*\bd  \bd*\bd ማለት\bd*\bd  \bd*\bd ምን\bd*\bd  \bd*\bd ማ\bd*\bd ለ\bd*\bd ት\bd*\bd  \bd*\bd ነው\bd*
+\zuli2 \bd አእማድ\bd* የሚለው ቃል አምድ ከሚለው የግዕዝ ግስ የተገኘ ሲሆን በሁለት መንገድ ተርጉመን እናየዋለን 
+\zuli2 \bd አእማድ\bd*\bd  (\bd*\bd አምድ\bd*\bd )\bd* ለቤት ከሆነ \bd ምሰሶ\bd* ማለት ነው፡፡ ምሰሶ ቤትን ተሸክሞ እንደሚያጸናው ሁሉ እነዚህ ምስጢራትም አንድን ክርስቲያን በክህደት በጥርጥር እንዳይወደቅ አጽንተው ይደግፉታል፡፡ 
+\zuli2 \bd አእማድ\bd*\bd  (\bd*\bd አምድ\bd*\bd )\bd* ለጽሕፈት ሲሆን ደግሞ ለገጽ ስፋት መክፈያነት ያገለግላል (መመጠኛነት)፡፡ አምድ ጽሕፈት እንደሚመጥን ሁሉ እነዚህ ምስጢራት ባህርየ ሥላሴን ከመጠን አልፈን(ከአቅማችን በላይ) እንዳንመረምር ይገድቡናል፡፡  
+\zuli1 እነዚህ ምስጢራት አእማድ መባላቸው ለምንድን ነው ቢሉ አምድ /ምሰሶ/ ቤትን እንዲያጸናው እነዚህም የምእመናን ልብ ያጸናሉና ነው፡፡ 
+\zuli1 ምሰሶ የሌለው ቤት እንደሚወድቅ ሁሉ
+\zuli1 \bd ምስጢር\bd*\bd  \bd*\bd ማለት\bd*\bd  \bd*\bd ምን\bd*\bd  \bd*\bd ማለት\bd*\bd  \bd*\bd ነው\bd*
+\zuli2 ምስጢር ማለት ስውር ድብቅ፣ ሽሽግ፣ ለልብ ወዳጅ ብቻ የሚነገር ማለት ነው፡፡ 
+\p_ListParagraph \bd እነዚህን\bd*\bd  \bd*\bd ምስጢራት\bd*\bd  \bd*\bd ቅድስት\bd*\bd  \bd*\bd ቤተክርስቲያናችን\bd*\bd  \bd*\bd ምስጢር\bd*\bd  \bd*\bd ስትላቸው\bd*\bd  \bd*\bd ለ\bd*\bd ልብ\bd*\bd  \bd*\bd ወዳጆቿ\bd*\bd  \bd*\bd ለሆኑት\bd*\bd  \bd*\bd ለሚ\bd*\bd ያምኑ\bd*\bd  \bd*\bd ለክርስቲያኖች\bd*\bd  \bd*\bd ብቻ\bd*\bd  \bd*\bd ሰ\bd*\bd ው\bd*\bd ራ\bd*\bd ፣ \bd*\bd ሸሽጋ\bd*\bd  \bd*\bd የምትነግራቸው\bd*\bd  \bd*\bd ለማያምኑት\bd*\bd  \bd*\bd የተደበቀ\bd*\bd  \bd*\bd ስለሆ\bd*\bd ነ\bd*\bd  \bd*\bd ነው\bd*\bd ፡፡ \bd*
+\zuli1 ምስጢር መባላቸው በአይነ ስጋ ስለማይታየው በእጅ ስለማይዳሰሰው ዘለአለማዊ አምላክ አንድነት፣ ሶስትነት ስጋ ለመዋሐዱ፣ ስለዳግም ምፅአቱ ስለሚናገሩ ነው፡፡ ምክንያቱም እነዚህን ምስጢራት በስጋዊ ጥበብ ውስን በሆነው በሰው አእምሮ ተመራምረን አንደርስባቸውምና ነው፡፡ 
+\zuli1 \bd እ\bd*\bd ነ\bd*\bd ዚህ\bd*\bd  \bd*\bd ምስጢ\bd*\bd ራት\bd*\bd  \bd*\bd ምስጢር\bd*\bd  \bd*\bd መባላቸው\bd*\bd  \bd*\bd ለ\bd*\bd ምንድን\bd*\bd  \bd*\bd ነው\bd*\bd  \bd*\bd ቢሉ\bd*\bd ?\bd*
+\zuli2 የምናውቀው የምስጢራቱ ባለቤት የሆነው እግዚአብሔር የገለጠልንን ያህል በመሆኑ ነው፡፡ 
+\zuli2 በስጋዊ ጥበብ ምርምር እና እውቀት መረዳት የምንችላቸው ባለመሆኑ ነው፡፡ 
+\zuli2 ከእነዚህ ምስጢራት አስቀድመን ልንማር የሚገባው ምስጢር ምስጢረ ሥላሴን እንደሆነ አባቶቻችን  እንዲህ በማለት ያስተምራሉ
+\zuli2 \bd ቅዱስ\bd*\bd  \bd*\bd ቄርሎስ\bd*\bd  ፡- ‹‹\bd*\bd መቅደመ\bd*\bd  \bd*\bd ኹሉ\bd*\bd  \bd*\bd ንስብክ\bd*\bd  \bd*\bd ሥ\bd*\bd ላሴ\bd*\bd  \bd*\bd ስሩየ\bd*\bd ›› \bd*
+\p_ListParagraph \bd ‹‹\bd*\bd ከሁሉ\bd*\bd  \bd*\bd አስቀድመን\bd*\bd  \bd*\bd የ\bd*\bd ሥ\bd*\bd ላሴን\bd*\bd  \bd*\bd አንድነትና\bd*\bd  \bd*\bd ሶስትነት\bd*\bd  \bd*\bd እናስተምራለን\bd*\bd ››\bd*
