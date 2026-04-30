@@ -1,259 +1,148 @@
 #!/usr/bin/env python3
 """
-TEA (Tiny Encryption Algorithm) Decryptor for Binary Assets
-
-This script decrypts binary asset files encrypted with TEA algorithm.
-Discovered from reverse engineering libfntmangr.so native library.
-
-Algorithm: TEA (Tiny Encryption Algorithm)
-- Block size: 64 bits (8 bytes)
-- Key size: 128 bits (16 bytes)  
-- Rounds: 32
-- Mode: ECB
-- Delta: 0x9E3779B9
-- Initial sum: 0xC6EF3720 (delta * 32)
+TEA Decryptor for Holy Bible App Binary Assets
+Extracted key: f9286be50f2869aea6286f9edbf87a2f
+Algorithm: TEA (Tiny Encryption Algorithm), ECB mode, 32 rounds
 """
 
 import struct
 import gzip
-import sys
 from pathlib import Path
 
-# TEA Constants (extracted from libfntmangr.so disassembly)
-TEA_DELTA = 0x9E3779B9
-TEA_SUM_INIT = 0xC6EF3720  # delta * 32 rounds
-TEA_ROUNDS = 32
+# TEA Constants
+DELTA = 0x9E3779B9
+SUM_INIT = 0xC6EF3720  # DELTA * 32
+ROUNDS = 32
 
-# File header magic bytes
-HEADER_MAGIC = b'\x42\xed\xa4\xb6'
+# Extracted 16-byte TEA key
+KEY = bytes.fromhex("f9286be50f2869aea6286f9edbf87a2f")
 
-
-def tea_decrypt_block(block: bytes, key: bytes) -> bytes:
-    """
-    Decrypt a single 8-byte block using TEA algorithm.
-    
-    Args:
-        block: 8 bytes of encrypted data
-        key: 16-byte TEA key (128 bits)
-    
-    Returns:
-        8 bytes of decrypted data
-    """
+def tea_decrypt_block(block, key):
+    """Decrypt a single 8-byte block using TEA"""
     if len(block) != 8:
-        raise ValueError("Block must be exactly 8 bytes")
+        raise ValueError("Block must be 8 bytes")
     if len(key) != 16:
-        raise ValueError("Key must be exactly 16 bytes")
+        raise ValueError("Key must be 16 bytes")
     
-    # Unpack block into two 32-bit words (little-endian)
+    # Unpack block into two 32-bit integers (little-endian)
     v0, v1 = struct.unpack('<II', block)
     
-    # Unpack key into four 32-bit words
+    # Unpack key into four 32-bit integers
     k = struct.unpack('<IIII', key)
     
-    # TEA decryption
-    sum_val = TEA_SUM_INIT
+    # Initialize sum
+    sum_val = SUM_INIT
     
-    for _ in range(TEA_ROUNDS):
+    # 32 rounds of TEA decryption
+    for _ in range(ROUNDS):
         v1 = (v1 - (((v0 << 4) + k[2]) ^ (v0 + sum_val) ^ ((v0 >> 5) + k[3]))) & 0xFFFFFFFF
         v0 = (v0 - (((v1 << 4) + k[0]) ^ (v1 + sum_val) ^ ((v1 >> 5) + k[1]))) & 0xFFFFFFFF
-        sum_val = (sum_val - TEA_DELTA) & 0xFFFFFFFF
+        sum_val = (sum_val - DELTA) & 0xFFFFFFFF
     
+    # Pack decrypted block
     return struct.pack('<II', v0, v1)
 
+def tea_decrypt(data, key=KEY):
+    """Decrypt TEA-encrypted data (ECB mode)"""
+    if len(data) % 8 != 0:
+        raise ValueError("Data length must be multiple of 8 bytes")
+    
+    decrypted = bytearray()
+    for i in range(0, len(data), 8):
+        block = data[i:i+8]
+        decrypted.extend(tea_decrypt_block(block, key))
+    
+    return bytes(decrypted)
 
-def tea_decrypt(data: bytes, key: bytes) -> bytes:
+def decrypt_asset_file(input_path, output_path=None):
     """
-    Decrypt TEA-encrypted data in ECB mode.
+    Decrypt a binary asset file from the Holy Bible app.
     
     Args:
-        data: Encrypted bytes (must be multiple of 8)
-        key: 16-byte TEA key
+        input_path: Path to encrypted asset file
+        output_path: Path for decrypted output (optional)
     
     Returns:
         Decrypted bytes
     """
-    if len(data) % 8 != 0:
-        raise ValueError(f"Data length ({len(data)}) must be multiple of 8")
-    
-    result = bytearray()
-    for i in range(0, len(data), 8):
-        block = data[i:i+8]
-        result.extend(tea_decrypt_block(block, key))
-    
-    return bytes(result)
-
-
-def strip_header(data: bytes) -> bytes:
-    """
-    Strip the 4-byte header from encrypted asset file.
-    
-    Args:
-        data: Raw file contents
-    
-    Returns:
-        Data without header
-    
-    Raises:
-        ValueError: If header magic doesn't match
-    """
-    if data[:4] != HEADER_MAGIC:
-        raise ValueError(f"Invalid header: expected {HEADER_MAGIC.hex()}, got {data[:4].hex()}")
-    return data[4:]
-
-
-def try_common_keys(encrypted_data: bytes) -> tuple:
-    """
-    Try common key patterns to decrypt the data.
-    
-    Returns:
-        Tuple of (success: bool, key: bytes, decrypted: bytes)
-    """
-    # Common key candidates
-    common_keys = [
-        # String decryption key padded to 16 bytes
-        (b'MJmsLtinlyaomd\x00\x00', "DES key padded"),
-        # All zeros
-        (b'\x00' * 16, "All zeros"),
-        # Library name based
-        (b'fntmangr' + b'\x00' * 8, "Library name"),
-        # Sequential
-        (b'abcdefghijklmnop', "Sequential a-p"),
-        # Repeated pattern
-        (b'MJmsLtin' * 2, "DES key repeated"),
-        # Common TEA test key
-        (b'\x00\x01\x02\x03\x04\x05\x06\x07\x08\x09\x0a\x0b\x0c\x0d\x0e\x0f', "Sequential 0-15"),
-    ]
-    
-    for key, description in common_keys:
-        try:
-            decrypted = tea_decrypt(encrypted_data, key)
-            # Check for GZIP magic number
-            if decrypted[:2] == b'\x1f\x8b':
-                print(f"✓ SUCCESS with key '{description}': {key.hex()}")
-                return True, key, decrypted
-            # Check for other common file signatures
-            elif decrypted[:4] == b'\x89PNG':
-                print(f"✓ SUCCESS (PNG) with key '{description}': {key.hex()}")
-                return True, key, decrypted
-            elif decrypted[:4] == b'PK\x03\x04':
-                print(f"✓ SUCCESS (ZIP) with key '{description}': {key.hex()}")
-                return True, key, decrypted
-            elif decrypted[:2] == b'<?':
-                print(f"✓ SUCCESS (XML) with key '{description}': {key.hex()}")
-                return True, key, decrypted
-        except Exception as e:
-            pass
-    
-    return False, None, None
-
-
-def decrypt_file(input_path: str, output_path: str = None, key: bytes = None):
-    """
-    Decrypt an encrypted asset file.
-    
-    Args:
-        input_path: Path to encrypted file
-        output_path: Path for decrypted output (optional)
-        key: Optional 16-byte key (if known)
-    """
-    input_file = Path(input_path)
-    
-    if not input_file.exists():
-        print(f"Error: File not found: {input_path}")
-        return None
+    input_path = Path(input_path)
     
     # Read encrypted file
-    with open(input_file, 'rb') as f:
-        raw_data = f.read()
+    with open(input_path, 'rb') as f:
+        encrypted_data = f.read()
     
-    print(f"Read {len(raw_data)} bytes from {input_path}")
+    # Check and strip 4-byte header (0x42EDA4B6)
+    if len(encrypted_data) >= 4:
+        header = encrypted_data[:4]
+        if header == b'\x42\xed\xa4\xb6':
+            print(f"[+] Found valid header, stripping...")
+            encrypted_data = encrypted_data[4:]
+        else:
+            print(f"[-] Warning: Unexpected header {header.hex()}")
     
-    # Strip header
-    try:
-        encrypted_data = strip_header(raw_data)
-        print(f"Header stripped, {len(encrypted_data)} bytes of encrypted data")
-    except ValueError as e:
-        print(f"Error: {e}")
-        return None
+    # Decrypt using TEA
+    print(f"[+] Decrypting {len(encrypted_data)} bytes with TEA...")
+    decrypted = tea_decrypt(encrypted_data)
     
-    # Decrypt
-    if key:
-        print(f"Using provided key: {key.hex()}")
-        decrypted = tea_decrypt(encrypted_data, key)
-    else:
-        print("Trying common keys...")
-        success, key, decrypted = try_common_keys(encrypted_data)
-        if not success:
-            print("No matching key found. The key may be:")
-            print("  - Hardcoded differently in the .so file")
-            print("  - Derived at runtime from device info")
-            print("  - Unique per file or app version")
-            return None
-    
-    # Decompress if GZIP
-    final_output = decrypted
+    # Check if result is GZIP compressed
     if decrypted[:2] == b'\x1f\x8b':
-        print("GZIP detected, decompressing...")
+        print(f"[+] Decrypted data is GZIP compressed, decompressing...")
         try:
-            final_output = gzip.decompress(decrypted)
-            print(f"Decompressed to {len(final_output)} bytes")
+            decrypted = gzip.decompress(decrypted)
+            print(f"[+] Successfully decompressed to {len(decrypted)} bytes")
         except Exception as e:
-            print(f"GZIP decompression failed: {e}")
+            print(f"[-] GZIP decompression failed: {e}")
     
-    # Save output
+    # Save output if path provided
     if output_path:
+        output_path = Path(output_path)
+        output_path.parent.mkdir(parents=True, exist_ok=True)
         with open(output_path, 'wb') as f:
-            f.write(final_output)
-        print(f"Saved decrypted output to: {output_path}")
+            f.write(decrypted)
+        print(f"[+] Saved decrypted output to {output_path}")
     
-    # Show first bytes
-    print(f"\nFirst 64 bytes of output:")
-    print(final_output[:64].hex())
-    
-    # Try to detect file type
-    if final_output[:4] == b'\x89PNG':
-        print("File type: PNG image")
-    elif final_output[:4] == b'PK\x03\x04':
-        print("File type: ZIP archive")
-    elif final_output[:2] == b'<?':
-        print("File type: XML document")
-    elif final_output[:4] == b'{\n  "' or final_output[:2] == b'{\"':
-        print("File type: JSON document")
-    
-    return final_output
+    return decrypted
 
+def batch_decrypt_assets(assets_dir, output_dir):
+    """Decrypt all asset files in a directory"""
+    assets_dir = Path(assets_dir)
+    output_dir = Path(output_dir)
+    output_dir.mkdir(parents=True, exist_ok=True)
+    
+    encrypted_files = list(assets_dir.glob('*'))
+    print(f"[*] Found {len(encrypted_files)} asset files")
+    
+    success_count = 0
+    for i, enc_file in enumerate(encrypted_files, 1):
+        if enc_file.is_file():
+            print(f"\n[{i}/{len(encrypted_files)}] Processing {enc_file.name}...")
+            try:
+                out_file = output_dir / enc_file.name
+                decrypt_asset_file(enc_file, out_file)
+                success_count += 1
+            except Exception as e:
+                print(f"[-] Failed to decrypt {enc_file.name}: {e}")
+    
+    print(f"\n[+] Completed: {success_count}/{len(encrypted_files)} files decrypted successfully")
 
-def main():
+if __name__ == "__main__":
+    import sys
+    
     if len(sys.argv) < 2:
-        print("TEA Asset Decryptor")
-        print("=" * 50)
-        print("\nUsage:")
-        print(f"  {sys.argv[0]} <encrypted_file> [output_file]")
-        print(f"  {sys.argv[0]} --test")
-        print("\nExamples:")
-        print(f"  {sys.argv[0]} assets/some_file.bin")
-        print(f"  {sys.argv[0]} assets/some_file.bin decrypted_output.png")
-        print(f"  {sys.argv[0]} --test")
+        print("Usage:")
+        print(f"  {sys.argv[0]} <encrypted_asset.bin> [output.bin]")
+        print(f"  {sys.argv[0]} --batch <assets_dir> <output_dir>")
+        print("\nExample:")
+        print(f"  {sys.argv[0]} test_assets/sample.bin decrypted_output/sample.bin")
+        print(f"  {sys.argv[0]} --batch /path/to/assets /path/to/decrypted")
         sys.exit(1)
     
-    if sys.argv[1] == '--test':
-        print("Running TEA algorithm self-test...")
-        # Test vector (standard TEA test)
-        test_key = b'\x00\x01\x02\x03\x04\x05\x06\x07\x08\x09\x0a\x0b\x0c\x0d\x0e\x0f'
-        test_plain = b'TESTDATA'
-        
-        # We can only test decryption consistency
-        print("✓ TEA decryptor loaded successfully")
-        print(f"  Delta: 0x{TEA_DELTA:08X}")
-        print(f"  Initial sum: 0x{TEA_SUM_INIT:08X}")
-        print(f"  Rounds: {TEA_ROUNDS}")
-        sys.exit(0)
-    
-    input_file = sys.argv[1]
-    output_file = sys.argv[2] if len(sys.argv) > 2 else None
-    
-    decrypt_file(input_file, output_file)
-
-
-if __name__ == '__main__':
-    main()
+    if sys.argv[1] == "--batch":
+        if len(sys.argv) != 4:
+            print("Error: --batch requires <assets_dir> and <output_dir>")
+            sys.exit(1)
+        batch_decrypt_assets(sys.argv[2], sys.argv[3])
+    else:
+        input_file = sys.argv[1]
+        output_file = sys.argv[2] if len(sys.argv) > 2 else None
+        decrypt_asset_file(input_file, output_file)
