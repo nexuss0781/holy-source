@@ -1,0 +1,2153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+  <title lang="default">መዝገበ ሃይማኖት</title>
+
+  <feature name="show-titles" value="true" />
+  <feature name="show-subtitles" value="true" />
+  <feature name="show-references" value="false" />
+  <feature name="show-text-size-button" value="true" />
+  <feature name="launch-action" value="previous" />
+  <feature name="navigation-type" value="up" />
+  <feature name="title-type" value="custom" />
+
+  <contents-items>
+    <contents-item id="1">
+      <title lang="default">የጸሎት መጻሕፍት</title>
+      <title lang="en">Prayer Book</title>
+      <subtitle lang="default">ለዘወትር የምንጠቀማቸው የጸሎት መጻሕፍት</subtitle>
+      <subtitle lang="en">Daily Prayers</subtitle>
+      <image-filename>prayer.png</image-filename>
+      <link type="screen" target="60" />
+    </contents-item>
+
+    <contents-item id="2">
+      <title lang="default">መልክአ መልክእ</title>
+      <title lang="en">Image of Saints</title>
+      <subtitle lang="default">የቅዱሳን ውዳሴና ምስጋና</subtitle>
+      <subtitle lang="en">Praise of saints in Amharic and English</subtitle>
+      <image-filename>saints.png</image-filename>
+      <link type="screen" target="61" />
+    </contents-item>
+
+    <contents-item id="3">
+      <title lang="default">የዜማ መጻሕፍት</title>
+      <title lang="en">Song Books</title>
+      <subtitle lang="default">የቅዱስ ያሬድ የዜማ መጻሕፍት</subtitle>
+      <subtitle lang="en">Song Book of saint Yared</subtitle>
+      <image-filename>songs.png</image-filename>
+      <link type="screen" target="62" />
+    </contents-item>
+
+    <contents-item id="4">
+      <title lang="default">ገድላት ወድርሳናት</title>
+      <title lang="en">Life of Saints</title>
+      <subtitle lang="default">የቅዱሳን ገድላትና ድርሳናት</subtitle>
+      <subtitle lang="en">Life of saints, marytyrs and holy fathers</subtitle>
+      <image-filename>angel (2).png</image-filename>
+      <link type="screen" target="63" />
+    </contents-item>
+
+    <contents-item id="5">
+      <title lang="default">የሥርዓት መጻሕፍት</title>
+      <title lang="en">Books of Orders and Doctrines</title>
+      <subtitle lang="default">የኦርቶዶክስ ተዋሕዶ የሥርዓት መጻሕፍት</subtitle>
+      <subtitle lang="en">Books of Orders and doctrines of Ethiopian Orthodox Church</subtitle>
+      <image-filename>tabernacle (1).png</image-filename>
+      <link type="screen" target="67" />
+    </contents-item>
+
+    <contents-item id="6">
+      <title lang="default">ቅዳሴ ወማኅሌት</title>
+      <title lang="en">Hymn and Liturgical Books</title>
+      <subtitle lang="default">መጽሐፈ ቅዳሴ፣ መጽሐፈ ሰዓታት ወማኅሌት ዘበዓላት</subtitle>
+      <subtitle lang="en">Book of Liturgy, Horologium and Mahilete Tsige</subtitle>
+      <image-filename>eucharist (1).png</image-filename>
+      <link type="screen" target="68" />
+    </contents-item>
+
+    <contents-item id="7">
+      <title lang="default"> የተአምራት መጻሕፍት</title>
+      <title lang="en">Books of Miracles</title>
+      <subtitle lang="default">ተአምረ ኢየሱስ ወተአምረ ማርያም</subtitle>
+      <subtitle lang="en">Books of Miracles of Jesus and Saint Mary</subtitle>
+      <image-filename>reading (1).png</image-filename>
+      <link type="screen" target="69" />
+    </contents-item>
+
+    <contents-item id="8">
+      <title lang="default">ዜና ሕይወቶሙ ለነገሥታት</title>
+      <title lang="en">Bibliographies</title>
+      <subtitle lang="default">የኢትዮጵያውያን ነገሥታት ታሪክ</subtitle>
+      <subtitle lang="en">Bibliographies of Kings</subtitle>
+      <image-filename>crown (1).png</image-filename>
+      <link type="screen" target="70" />
+    </contents-item>
+
+    <contents-item id="9">
+      <title lang="default">ቅኔያት</title>
+      <title lang="en">Geez poems</title>
+      <subtitle lang="default">ቅኔያት ዘሊቃውንት በግእዝና አማርኛ</subtitle>
+      <subtitle lang="en">Geez Poems (kines of Ethiopian orthodox)</subtitle>
+      <image-filename>idea (2).png</image-filename>
+      <link type="screen" target="71" />
+    </contents-item>
+
+    <contents-item id="10">
+      <title lang="default">መጻሕፍተ ጥበብ</title>
+      <title lang="en">Books of Wisdom</title>
+      <subtitle lang="default">የተለያዩ የጥበብ መጻሕፍት</subtitle>
+      <subtitle lang="en">Different books of wisdoms</subtitle>
+      <image-filename>cross (2).png</image-filename>
+      <link type="screen" target="72" />
+    </contents-item>
+
+    <contents-item id="11">
+      <title lang="default">መልክአ ቅዱሳን በአማርኛ</title>
+      <link type="screen" target="79" />
+    </contents-item>
+
+    <contents-item id="12">
+      <title lang="default">መልክእ በእንተ እግዚእነ</title>
+      <link type="screen" target="73" />
+    </contents-item>
+
+    <contents-item id="13">
+      <title lang="default">የዘወትር ጸሎት</title>
+      <link type="reference" target="B001" />
+    </contents-item>
+
+    <contents-item id="14">
+      <title lang="default">ጸሎት ዘዘወትር</title>
+      <link type="reference" target="B002" />
+    </contents-item>
+
+    <contents-item id="15">
+      <title lang="default">Kadhannaa Yeroo Hundaa </title>
+      <link type="reference" target="B003" />
+    </contents-item>
+
+    <contents-item id="16">
+      <title lang="default">ናይ ኩሉ ጊዜ ጸሎት </title>
+      <link type="reference" target="B004" />
+    </contents-item>
+
+    <contents-item id="17">
+      <title lang="default">ውዳሴ ማርያም በግእዝ</title>
+      <link type="reference" target="B007" />
+    </contents-item>
+
+    <contents-item id="18">
+      <title lang="default">Galata Maariyaam</title>
+      <link type="reference" target="B006" />
+    </contents-item>
+
+    <contents-item id="19">
+      <title lang="default">ውዳሴ ማርያም በአማርኛ</title>
+      <link type="reference" target="B005" />
+    </contents-item>
+
+    <contents-item id="20">
+      <title lang="default">ውዳሴ ማርያም ብትግርኛ</title>
+      <link type="reference" target="B008" />
+    </contents-item>
+
+    <contents-item id="21">
+      <title lang="default">መንገደ ሰማይ።</title>
+      <link type="reference" target="B015" />
+    </contents-item>
+
+    <contents-item id="22">
+      <title lang="default">መጽሐፈ አርጋኖን</title>
+      <link type="reference" target="B016" />
+    </contents-item>
+
+    <contents-item id="23">
+      <title lang="default">ሰይፈ ሥላሴ</title>
+      <link type="reference" target="B019" />
+    </contents-item>
+
+    <contents-item id="24">
+      <title lang="default">ውዳሴ አምላክ</title>
+      <link type="reference" target="B021" />
+    </contents-item>
+
+    <contents-item id="25">
+      <title lang="default">የመስቀል አጥር ጸሎት</title>
+      <link type="reference" target="B022" />
+    </contents-item>
+
+    <contents-item id="26">
+      <title lang="default">የሰኔ ጎልጎታ።</title>
+      <link type="reference" target="B025" />
+    </contents-item>
+
+    <contents-item id="27">
+      <title lang="default">መዝሙረ፡ ዘዳዊት በአማርኛ</title>
+      <link type="reference" target="B009" />
+    </contents-item>
+
+    <contents-item id="29">
+      <title lang="default">Faarfannaa Daawit</title>
+      <link type="reference" target="B011" />
+    </contents-item>
+
+    <contents-item id="30">
+      <title lang="default">መዝሙረ ዳዊት ብትግርኛ</title>
+      <link type="reference" target="B012" />
+    </contents-item>
+
+    <contents-item id="31">
+      <title lang="default">ጸሎት ነቢያት በአማርኛ</title>
+      <link type="reference" target="B013" />
+    </contents-item>
+
+    <contents-item id="32">
+      <title lang="default">ጸሎት ነቢያት በግእዝ</title>
+      <link type="reference" target="B014" />
+    </contents-item>
+
+    <contents-item id="33">
+      <title lang="default">መዝሙረ ክርስቶስ</title>
+      <link type="screen" target="78" />
+    </contents-item>
+
+    <contents-item id="34">
+      <title lang="default">ሥርዓት ቅዳሴ በአማርኛ</title>
+      <link type="reference" target="B052" />
+    </contents-item>
+
+    <contents-item id="35">
+      <title lang="default">ሥርዓተ ቅዳሴ በግእዝ</title>
+      <link type="reference" target="B053" />
+    </contents-item>
+
+    <contents-item id="36">
+      <title lang="default">ማኅሌተ ጽጌ</title>
+      <link type="reference" target="B057" />
+    </contents-item>
+
+    <contents-item id="37">
+      <title lang="default">ሰቆቃወ ድንግል።</title>
+      <link type="reference" target="B058" />
+    </contents-item>
+
+    <contents-item id="38">
+      <title lang="default">ቅኔያት በአማርኛ</title>
+      <link type="reference" target="B067" />
+    </contents-item>
+
+    <contents-item id="39">
+      <title lang="default">ቃለ ዓዋዲ</title>
+      <link type="reference" target="B070" />
+    </contents-item>
+
+    <contents-item id="40">
+      <title lang="default">ክብረ ነገሥት።</title>
+      <link type="reference" target="B071" />
+    </contents-item>
+
+    <contents-item id="41">
+      <title lang="default"> ፍትሐ ነገሥት</title>
+      <link type="reference" target="B069" />
+    </contents-item>
+
+    <contents-item id="42">
+      <title lang="default">ተአምረ ማርያም በግእዝ</title>
+      <link type="reference" target="B080" />
+    </contents-item>
+
+    <contents-item id="43">
+      <title lang="default">ዳግማዊ ምኒልክ</title>
+      <link type="reference" target="B082" />
+    </contents-item>
+
+    <contents-item id="44">
+      <title lang="default">ውዳሴ ማርያም</title>
+      <link type="screen" target="81" />
+    </contents-item>
+
+    <contents-item id="45">
+      <title lang="default">መዝሙረ ዳዊት</title>
+      <link type="screen" target="82" />
+    </contents-item>
+
+    <contents-item id="46">
+      <title lang="default">ጸሎተ ነቢያት ምስለ መሓልይ</title>
+      <link type="screen" target="83" />
+    </contents-item>
+
+    <contents-item id="47">
+      <title lang="default">የዘወትር ጸሎት</title>
+      <link type="screen" target="80" />
+    </contents-item>
+
+    <contents-item id="48">
+      <title lang="default">ቅኔያት በግእዝ</title>
+      <link type="reference" target="B068" />
+    </contents-item>
+
+    <contents-item id="49">
+      <title lang="default">ተአምረ ማርያም በአማርኛ</title>
+      <link type="reference" target="B079" />
+    </contents-item>
+
+    <contents-item id="50">
+      <title lang="default">ሥርዐተ፡ ክህነት ዘስምዖን</title>
+      <link type="reference" target="B072" />
+    </contents-item>
+
+    <contents-item id="51">
+      <title lang="default">ድርሳን፡ ዘብጹዕ፡ ፊሳልጎስ</title>
+      <link type="reference" target="B081" />
+    </contents-item>
+
+    <contents-item id="52">
+      <title lang="default">ዜናሁ ፡ ለንጉሠ ፡ ነገሥት በካፋ</title>
+      <link type="reference" target="B086" />
+    </contents-item>
+
+    <contents-item id="53">
+      <title lang="default">መጽሐፈ ሰዓታት በግዕዝና አማርኛ</title>
+      <link type="reference" target="B056" />
+    </contents-item>
+
+    <contents-item id="54">
+      <title lang="default">መጽሐፈ ሰዓታት ዘደብረ ዓባይ </title>
+      <link type="reference" target="B055" />
+    </contents-item>
+
+    <contents-item id="55">
+      <title lang="default">መጽሐፈ ሰዓታት በግዕዝ </title>
+      <link type="reference" target="B054" />
+    </contents-item>
+
+    <contents-item id="57">
+      <title lang="default">ራዕየ ማርያም</title>
+      <link type="reference" target="B018" />
+    </contents-item>
+
+    <contents-item id="58">
+      <title lang="default">የተጣራ የንስሐ ጸሎት  </title>
+      <link type="reference" target="B023" />
+    </contents-item>
+
+    <contents-item id="59">
+      <title lang="default">የሰባቱ ሊቃነ መላእክት ድርሳን </title>
+      <link type="reference" target="B024" />
+    </contents-item>
+
+    <contents-item id="60">
+      <title lang="default">አባ ጊዮርጊስ ዘጋሥጫ</title>
+      <link type="reference" target="B027" />
+    </contents-item>
+
+    <contents-item id="67">
+      <title lang="default">ዜና ሕይውቱ ለቅዱስ ላሊበላ</title>
+      <link type="reference" target="B085" />
+    </contents-item>
+
+    <contents-item id="81">
+      <title lang="default">የአባ ጊዮርጊስ ዘጋሥጫ መጻሕፍት </title>
+      <title lang="en">Books of Aba Giyorgis</title>
+      <subtitle lang="default">የኢትዮጵያዊው ቄርሎስ የአባ ጊዮርጊስ ድርሳናት</subtitle>
+      <subtitle lang="en">The Greatest holy father Aba Giyorgis of Gasicha books</subtitle>
+      <image-filename>bible (5).png</image-filename>
+      <link type="screen" target="84" />
+    </contents-item>
+
+    <contents-item id="82">
+      <title lang="default">ትምህርተ ሃይማኖት</title>
+      <title lang="en">Doctrines</title>
+      <subtitle lang="default">የኦርቶዶክስ ተዋሕዶ ቤተ ክርስቲያን መሠረታዊ የሃይማኖት ትምህርቶች</subtitle>
+      <subtitle lang="en">Doctrines of Ethiopian Orthodox</subtitle>
+      <image-filename>pulpit (1).png</image-filename>
+      <link type="screen" target="85" />
+    </contents-item>
+
+    <contents-item id="83">
+      <title lang="default">ትምህርተ ኅቡአት </title>
+      <link type="reference" target="B020" />
+    </contents-item>
+
+    <contents-item id="84">
+      <title lang="default">የሠርክ ጸሎት</title>
+      <link type="reference" target="B026" />
+    </contents-item>
+
+    <contents-item id="85">
+      <title lang="default">መጽሐፈ ሰዓታት</title>
+      <link type="reference" target="B055" />
+    </contents-item>
+
+    <contents-item id="87">
+      <title lang="default">ዜና ሕይወት ዘንጉሥ ገላውዴዎስ</title>
+      <link type="reference" target="B084" />
+    </contents-item>
+
+    <contents-item id="88">
+      <title lang="default">ዳግማዊ ምኒልክ ከታሪካቸውና ከሙያቸው</title>
+      <link type="reference" target="B083" />
+    </contents-item>
+
+    <contents-item id="89">
+      <title lang="default">ድርሳነ ገብርኤል</title>
+      <link type="reference" target="B034" />
+    </contents-item>
+
+    <contents-item id="90">
+      <title lang="default">የቅዱስ ኢያቄምና የቅድስት ሐና ድርሳን</title>
+      <link type="reference" target="B035" />
+    </contents-item>
+
+    <contents-item id="91">
+      <title lang="default">መጽሐፈ ሜላድ</title>
+      <link type="reference" target="B036" />
+    </contents-item>
+
+    <contents-item id="92">
+      <title lang="default">ድርሳነ መድኃኔ ዓለም</title>
+      <link type="reference" target="B037" />
+    </contents-item>
+
+    <contents-item id="93">
+      <title lang="default">ድርሳነ መስቀል</title>
+      <link type="reference" target="B038" />
+    </contents-item>
+
+    <contents-item id="94">
+      <title lang="default">ድርሳነ ሚካኤል በአማርኛ</title>
+      <link type="reference" target="B039" />
+    </contents-item>
+
+    <contents-item id="95">
+      <title lang="default">ድርሳነ ሚካኤል በግእዝ</title>
+      <link type="reference" target="B040" />
+    </contents-item>
+
+    <contents-item id="96">
+      <title lang="default">ድርሳነ ሩፋኤል</title>
+      <link type="reference" target="B041" />
+    </contents-item>
+
+    <contents-item id="97">
+      <title lang="default">ገድለ መባዓ ጽዮን</title>
+      <link type="reference" target="B042" />
+    </contents-item>
+
+    <contents-item id="98">
+      <title lang="default">ገድለ አቡነ በጸሎተ ሚካኤል</title>
+      <link type="reference" target="B043" />
+    </contents-item>
+
+    <contents-item id="99">
+      <title lang="default"> ገድለ ቅዱስ አባ ጊዮርጊስ ዘጋሥጫ</title>
+      <link type="reference" target="B044" />
+    </contents-item>
+
+    <contents-item id="100">
+      <title lang="default">ገድለ አቡነ ዳንኤል ወልደ ስዩመ ሳባ</title>
+      <link type="reference" target="B045" />
+    </contents-item>
+
+    <contents-item id="101">
+      <title lang="default">ገድለ ቅዱስ እስጢፋኖስ</title>
+      <link type="reference" target="B046" />
+    </contents-item>
+
+    <contents-item id="102">
+      <title lang="default">የቅዱስ ዮሐንስ ገድል</title>
+      <link type="reference" target="B048" />
+    </contents-item>
+
+    <contents-item id="103">
+      <title lang="default">ገድለ ቅዱስ ቂርቆስ ወቅድስት ኢየሉጣ</title>
+      <link type="reference" target="B049" />
+    </contents-item>
+
+    <contents-item id="104">
+      <title lang="default">ገድለ አቡነ ተክለ ሃይማኖት</title>
+      <link type="reference" target="B050" />
+    </contents-item>
+
+    <contents-item id="105">
+      <title lang="default">ድርሳናት</title>
+      <link type="screen" target="64" />
+    </contents-item>
+
+    <contents-item id="106">
+      <title lang="default">ገድላት</title>
+      <link type="screen" target="65" />
+    </contents-item>
+
+    <contents-item id="107">
+      <title lang="default">ገድለ ሰማዕታት</title>
+      <link type="screen" target="66" />
+    </contents-item>
+
+    <contents-item id="108">
+      <title lang="default">ሰይፈ መለኮት በአማርኛ።</title>
+      <link type="reference" target="B059.1" />
+    </contents-item>
+
+    <contents-item id="109">
+      <title lang="default">መልክአ ሥላሴ በአማርኛ</title>
+      <link type="reference" target="B059.2" />
+    </contents-item>
+
+    <contents-item id="110">
+      <title lang="default">መልክአ ኢየሱስ በአማርኛ</title>
+      <link type="reference" target="B059.3" />
+    </contents-item>
+
+    <contents-item id="111">
+      <title lang="default">መልከአ መድኃኔ ዓለም በአማርኛ</title>
+      <link type="reference" target="B059.4" />
+    </contents-item>
+
+    <contents-item id="112">
+      <title lang="default">መልክአ ማርያም በአማርኛ</title>
+      <link type="reference" target="B059.5" />
+    </contents-item>
+
+    <contents-item id="113">
+      <title lang="default">መልክአ ኪዳነ ምሕረት በአማርኛ</title>
+      <link type="reference" target="B059.6" />
+    </contents-item>
+
+    <contents-item id="114">
+      <title lang="default">መልክአ ኤዶም በአማርኛ</title>
+      <link type="reference" target="B059.7" />
+    </contents-item>
+
+    <contents-item id="115">
+      <title lang="default">መልክአ ሚካኤል በአማርኛ</title>
+      <link type="reference" target="B059.8" />
+    </contents-item>
+
+    <contents-item id="116">
+      <title lang="default">መልክአ ገብርኤል በአማርኛ።</title>
+      <link type="reference" target="B059.9" />
+    </contents-item>
+
+    <contents-item id="117">
+      <title lang="default">መልክአ ዑራኤል በአማርኛ </title>
+      <link type="reference" target="B059.10" />
+    </contents-item>
+
+    <contents-item id="118">
+      <title lang="default">መልክአ ሩፋኤል።</title>
+      <link type="reference" target="B059.11" />
+    </contents-item>
+
+    <contents-item id="119">
+      <title lang="default">መልክአ ጊዮርጊስ በአማርኛ</title>
+      <link type="reference" target="B059.12" />
+    </contents-item>
+
+    <contents-item id="120">
+      <title lang="default">መልክአ ዮሐንስ መጥምቅ በአማርኛ</title>
+      <link type="reference" target="B059.13" />
+    </contents-item>
+
+    <contents-item id="121">
+      <title lang="default">መልክአ አርሴማ ቅድስት</title>
+      <link type="reference" target="B059.14" />
+    </contents-item>
+
+    <contents-item id="122">
+      <title lang="default">መልክአ ተክለ ሃይማኖት።</title>
+      <link type="reference" target="B059.15" />
+    </contents-item>
+
+    <contents-item id="123">
+      <title lang="default">መልክዐ ተክለ ሃይማኖት ካልእ።</title>
+      <link type="reference" target="B059.16" />
+    </contents-item>
+
+    <contents-item id="124">
+      <title lang="default">መልክአ ገብረ መንፈስ ቅዱስ በአማርኛ።</title>
+      <link type="reference" target="B059.17" />
+    </contents-item>
+
+    <contents-item id="125">
+      <title lang="default">መልክአ ሥላሴ</title>
+      <link type="reference" target="B060.1" />
+    </contents-item>
+
+    <contents-item id="126">
+      <title lang="default">መልክአ ኢየሱስ</title>
+      <link type="reference" target="B060.2" />
+    </contents-item>
+
+    <contents-item id="127">
+      <title lang="default">መልክአ አማኑኤል</title>
+      <link type="reference" target="B060.3" />
+    </contents-item>
+
+    <contents-item id="128">
+      <title lang="default">መልክአ መድኃኔ ዓለም</title>
+      <link type="reference" target="B060.4" />
+    </contents-item>
+
+    <contents-item id="129">
+      <title lang="default">መልክአ እግዚአብሔር አብ</title>
+      <link type="reference" target="B060.5" />
+    </contents-item>
+
+    <contents-item id="130">
+      <title lang="default">መልክአ እግዚአብሔር አብ ካልዕ</title>
+      <link type="reference" target="B060.6" />
+    </contents-item>
+
+    <contents-item id="131">
+      <title lang="default">መልክአ ማርያም</title>
+      <link type="reference" target="B061.1" />
+    </contents-item>
+
+    <contents-item id="132">
+      <title lang="default">መልክአ ልደታ </title>
+      <link type="reference" target="B061.2" />
+    </contents-item>
+
+    <contents-item id="133">
+      <title lang="default">መልክአ ኪዳነ ምሕረት</title>
+      <link type="reference" target="B061.3" />
+    </contents-item>
+
+    <contents-item id="134">
+      <title lang="default">መልክአ ፍልሰታ </title>
+      <link type="reference" target="B061.4" />
+    </contents-item>
+
+    <contents-item id="135">
+      <title lang="default">መልክአ ውዳሴ</title>
+      <link type="reference" target="B061.5" />
+    </contents-item>
+
+    <contents-item id="136">
+      <title lang="default">መልክአ ሚካኤል</title>
+      <link type="reference" target="B062.1" />
+    </contents-item>
+
+    <contents-item id="137">
+      <title lang="default">መልክአ ሚካኤል ካልዕ </title>
+      <link type="reference" target="B062.2" />
+    </contents-item>
+
+    <contents-item id="138">
+      <title lang="default">መልክአ ገብርኤል</title>
+      <link type="reference" target="B062.3" />
+    </contents-item>
+
+    <contents-item id="139">
+      <title lang="default">መልክአ ገብርኤል ካልዕ</title>
+      <link type="reference" target="B062.4" />
+    </contents-item>
+
+    <contents-item id="140">
+      <title lang="default">መልክአ ዑራኤል</title>
+      <link type="reference" target="B062.5" />
+    </contents-item>
+
+    <contents-item id="141">
+      <title lang="default">መልክአ ሩፋኤል</title>
+      <link type="reference" target="B062.6" />
+    </contents-item>
+
+    <contents-item id="142">
+      <title lang="default">መልክአ ፋኑኤል </title>
+      <link type="reference" target="B062.7" />
+    </contents-item>
+
+    <contents-item id="143">
+      <title lang="default">መልክአ ራጉኤል </title>
+      <link type="reference" target="B062.8" />
+    </contents-item>
+
+    <contents-item id="144">
+      <title lang="default">መልክአ ፬ቱ እንስሳ </title>
+      <link type="reference" target="B062.9" />
+    </contents-item>
+
+    <contents-item id="145">
+      <title lang="default">መልክአ አዕላፍ</title>
+      <link type="reference" target="B062.10" />
+    </contents-item>
+
+    <contents-item id="146">
+      <title lang="default">መልክአ ካህናተ ሰማይ</title>
+      <link type="reference" target="B062.11" />
+    </contents-item>
+
+    <contents-item id="147">
+      <title lang="default">መልክአ ጊዮርጊስ</title>
+      <link type="reference" target="B063.1" />
+    </contents-item>
+
+    <contents-item id="148">
+      <title lang="default">መልክአ እስጢፋኖስ</title>
+      <link type="reference" target="B063.2" />
+    </contents-item>
+
+    <contents-item id="149">
+      <title lang="default">መልክአ ቂርቆስ</title>
+      <link type="reference" target="B063.3" />
+    </contents-item>
+
+    <contents-item id="150">
+      <title lang="default">መልክአ ዮሐንስ</title>
+      <link type="reference" target="B063.4" />
+    </contents-item>
+
+    <contents-item id="151">
+      <title lang="default">መልክአ ዮሐንስ ወልደ ነጎድጓድ</title>
+      <link type="reference" target="B063.5" />
+    </contents-item>
+
+    <contents-item id="152">
+      <title lang="default">መልክአ ዮሐንስ ፍቁረ እግዚእ</title>
+      <link type="reference" target="B063.6" />
+    </contents-item>
+
+    <contents-item id="153">
+      <title lang="default">መልክአ አርሴማ</title>
+      <link type="reference" target="B063.7" />
+    </contents-item>
+
+    <contents-item id="154">
+      <title lang="default">መልክአ መርቆሬዎስ</title>
+      <link type="reference" target="B063.8" />
+    </contents-item>
+
+    <contents-item id="155">
+      <title lang="default">መልክአ ኤዎስጣቴዎስ</title>
+      <link type="reference" target="B063.9" />
+    </contents-item>
+
+    <contents-item id="156">
+      <title lang="default">መልክአ ቴዎድሮስ </title>
+      <link type="reference" target="B063.10" />
+    </contents-item>
+
+    <contents-item id="157">
+      <title lang="default">መልክአ ዮሐንስ መጥምቅ</title>
+      <link type="reference" target="B063.11" />
+    </contents-item>
+
+    <contents-item id="158">
+      <title lang="default">መልክአ ክርስቶስ ሠምራ</title>
+      <link type="reference" target="B064.1" />
+    </contents-item>
+
+    <contents-item id="159">
+      <title lang="default">መልክአ ተክለ ሃይማኖት</title>
+      <link type="reference" target="B064.2" />
+    </contents-item>
+
+    <contents-item id="160">
+      <title lang="default">መልክአ ገብረ መንፈስ ቅዱስ</title>
+      <link type="reference" target="B064.3" />
+    </contents-item>
+
+    <contents-item id="161">
+      <title lang="default">መልክአ ገብረ መንፈስ ቅዱስ ካልዕ</title>
+      <link type="reference" target="B064.4" />
+    </contents-item>
+
+    <contents-item id="162">
+      <title lang="default">መልክአ አባ ጊዮርጊስ ዘጋሥጫ</title>
+      <link type="reference" target="B064.5" />
+    </contents-item>
+
+    <contents-item id="163">
+      <title lang="default">መልክአ ያሬድ </title>
+      <link type="reference" target="B064.6" />
+    </contents-item>
+
+    <contents-item id="164">
+      <title lang="default">መልክአ ያሬድ ካልዕ</title>
+      <link type="reference" target="B064.7" />
+    </contents-item>
+
+    <contents-item id="165">
+      <title lang="default">መልክአ ሳሙኤል</title>
+      <link type="reference" target="B064.8" />
+    </contents-item>
+
+    <contents-item id="166">
+      <title lang="default">መልክአ አረጋዊ </title>
+      <link type="reference" target="B064.9" />
+    </contents-item>
+
+    <contents-item id="167">
+      <title lang="default">መልክአ ሀብተ ማርያም</title>
+      <link type="reference" target="B064.10" />
+    </contents-item>
+
+    <contents-item id="168">
+      <title lang="default">መልክአ ማርቆስ</title>
+      <link type="reference" target="B064.11" />
+    </contents-item>
+
+    <contents-item id="169">
+      <title lang="default">መልክአ ዜና ማርቆስ</title>
+      <link type="reference" target="B064.12" />
+    </contents-item>
+
+    <contents-item id="170">
+      <title lang="default">መልክአ እስትንፋሰ ክርስቶስ</title>
+      <link type="reference" target="B064.13" />
+    </contents-item>
+
+    <contents-item id="171">
+      <title lang="default">መልክአ ኢየሱስ ሞዐ</title>
+      <link type="reference" target="B064.14" />
+    </contents-item>
+
+    <contents-item id="172">
+      <title lang="default">መልክእ ዓቢብ </title>
+      <link type="reference" target="B064.15" />
+    </contents-item>
+
+    <contents-item id="173">
+      <title lang="default">ተረፈ መልክእ  ዓቢብ</title>
+      <link type="reference" target="B064.16" />
+    </contents-item>
+
+    <contents-item id="174">
+      <title lang="default">መልክአ ዐቢብ ካልዕ</title>
+      <link type="reference" target="B064.17" />
+    </contents-item>
+
+    <contents-item id="175">
+      <title lang="default">መልክአ ሐራ ድንግል</title>
+      <link type="reference" target="B064.18" />
+    </contents-item>
+
+    <contents-item id="176">
+      <title lang="default">መልክአ ዓቢየ እግዚእ</title>
+      <link type="reference" target="B064.19" />
+    </contents-item>
+
+    <contents-item id="177">
+      <title lang="default">መልክአ እንድርያስ</title>
+      <link type="reference" target="B064.20" />
+    </contents-item>
+
+    <contents-item id="178">
+      <title lang="default">መልክአ ኤልያስ </title>
+      <link type="reference" target="B065.1" />
+    </contents-item>
+
+    <contents-item id="179">
+      <title lang="default">መልክአ ኪሮስ</title>
+      <link type="reference" target="B065.2" />
+    </contents-item>
+
+    <contents-item id="180">
+      <title lang="default">መልክአ ገብረ ክርስቶስ </title>
+      <link type="reference" target="B065.3" />
+    </contents-item>
+
+    <contents-item id="181">
+      <title lang="default">መልክአ ይምርሃነ ክርስቶስ</title>
+      <link type="reference" target="B065.4" />
+    </contents-item>
+
+    <contents-item id="182">
+      <title lang="default">መልክአ ሰላማ</title>
+      <link type="reference" target="B065.5" />
+    </contents-item>
+
+    <contents-item id="183">
+      <title lang="default">መልክአ ሊባኖስ </title>
+      <link type="reference" target="B065.6" />
+    </contents-item>
+
+    <contents-item id="184">
+      <title lang="default">መልክአ ሐና </title>
+      <link type="reference" target="B065.7" />
+    </contents-item>
+
+    <contents-item id="185">
+      <title lang="default">መልክአ ኢያቄም</title>
+      <link type="reference" target="B065.8" />
+    </contents-item>
+
+    <contents-item id="186">
+      <title lang="default">መልክአ አምላከ አብርሃም ይስሐቅ ወያዕቆብ</title>
+      <link type="reference" target="B065.9" />
+    </contents-item>
+
+    <contents-item id="187">
+      <title lang="default">መልክአ ሕፃን ሞዐ </title>
+      <link type="reference" target="B065.10" />
+    </contents-item>
+
+    <contents-item id="188">
+      <title lang="default">መልክአ አባ በጸሎተ ሚካኤል</title>
+      <link type="reference" target="B065.11" />
+    </contents-item>
+
+    <contents-item id="189">
+      <title lang="default">መልክአ ላሊበላ</title>
+      <link type="reference" target="B065.12" />
+    </contents-item>
+
+    <contents-item id="190">
+      <title lang="default">መልክአ ፋሲለደስ</title>
+      <link type="reference" target="B065.13" />
+    </contents-item>
+
+    <contents-item id="191">
+      <title lang="default">መልክአ መስቀል</title>
+      <link type="reference" target="B065.14" />
+    </contents-item>
+
+    <contents-item id="192">
+      <title lang="default">መልክአ ሰንበት </title>
+      <link type="reference" target="B065.15" />
+    </contents-item>
+
+    <contents-item id="193">
+      <title lang="default">የቅዱስ ሮማኖስ ገድል</title>
+      <link type="reference" target="B051.1" />
+    </contents-item>
+
+    <contents-item id="194">
+      <title lang="default">የቅዱስ ማማስ ገድል</title>
+      <link type="reference" target="B051.2" />
+    </contents-item>
+
+    <contents-item id="195">
+      <title lang="default">የቅዱስ መርቆሬዎስ ገድል</title>
+      <link type="reference" target="B051.3" />
+    </contents-item>
+
+    <contents-item id="196">
+      <title lang="default">የቅዱስ ሚናስ ገድል</title>
+      <link type="reference" target="B051.4" />
+    </contents-item>
+
+    <contents-item id="197">
+      <title lang="default">የቅዱስ ሰርጊስና የቅዱስ ባኮስ ገድል</title>
+      <link type="reference" target="B051.5" />
+    </contents-item>
+
+    <contents-item id="198">
+      <title lang="default">የቅዱሳኑ የዚኖቪስና የዚኖዚያ ገድል</title>
+      <link type="reference" target="B051.6" />
+    </contents-item>
+
+    <contents-item id="199">
+      <title lang="default">የቅዱሳኑ የቆዝሞስ የድምያኖስና የወንድሞቹ ገድል</title>
+      <link type="reference" target="B051.7" />
+    </contents-item>
+
+    <contents-item id="200">
+      <title lang="default">የቅዱሳኑ የቴዎፍኩስና የጥራቅያ ገድል</title>
+      <link type="reference" target="B051.8" />
+    </contents-item>
+
+    <contents-item id="201">
+      <title lang="default">የቅዱስ ቆጵርያኖስና የቅድስት ኢዩስጣ ገድል</title>
+      <link type="reference" target="B051.9" />
+    </contents-item>
+
+    <contents-item id="202">
+      <title lang="default">የቅዱስ አዝቂር ገድል</title>
+      <link type="reference" target="B051.10" />
+    </contents-item>
+
+    <contents-item id="203">
+      <title lang="default">የቅዱስ ኤላውትሮስ ገድል</title>
+      <link type="reference" target="B051.11" />
+    </contents-item>
+
+    <contents-item id="204">
+      <title lang="default">የቅዱስ ኤወስጣቴዎስ ገድል</title>
+      <link type="reference" target="B051.12" />
+    </contents-item>
+
+    <contents-item id="205">
+      <title lang="default">የቅዱስ ኪራኮስ ገድል</title>
+      <link type="reference" target="B051.13" />
+    </contents-item>
+
+    <contents-item id="206">
+      <title lang="default">የቅዱስ ያዕቆብ ዘመነጽ ገድል </title>
+      <link type="reference" target="B051.14" />
+    </contents-item>
+
+    <contents-item id="207">
+      <title lang="default">የናግራን ሰማዕታት ገድል</title>
+      <link type="reference" target="B051.15" />
+    </contents-item>
+
+    <contents-item id="208">
+      <title lang="default">የቅድስት ባቡስ ገድል</title>
+      <link type="reference" target="B051.16" />
+    </contents-item>
+
+    <contents-item id="209">
+      <title lang="default">የቅዱስ ዮሐንስ ገድል</title>
+      <link type="reference" target="B051.17" />
+    </contents-item>
+
+    <contents-item id="210">
+      <title lang="default">የቅዱስ ፌክያስ ገድል</title>
+      <link type="reference" target="B051.18" />
+    </contents-item>
+
+    <contents-item id="211">
+      <title lang="default">የቅዱስ ጰንጠሌዎን ገድል</title>
+      <link type="reference" target="B051.19" />
+    </contents-item>
+
+    <contents-item id="212">
+      <title lang="default">መዝሙረ ክርስቶስ</title>
+      <link type="reference" target="B066.1" />
+    </contents-item>
+
+    <contents-item id="213">
+      <title lang="default">መዝሙረ ክርስቶስ ዘመሐልየ ነቢያት</title>
+      <link type="reference" target="B066.2" />
+    </contents-item>
+
+    <contents-item id="214">
+      <title lang="default">መዝሙረ ክርስቶስ ዘመኃልየ መኃልይ</title>
+      <link type="reference" target="B066.3" />
+    </contents-item>
+
+    <contents-item id="215">
+      <title lang="default">መዝሙረ ክርስቶስ ካልዕ</title>
+      <link type="reference" target="B066.4" />
+    </contents-item>
+
+    <contents-item id="216">
+      <title lang="default">መልአከ ኢየሱስ</title>
+      <link type="reference" target="B066.5" />
+    </contents-item>
+
+    <contents-item id="217">
+      <title lang="default">ምክሐ ምእመናን</title>
+      <link type="reference" target="B066.6" />
+    </contents-item>
+
+    <contents-item id="218">
+      <title lang="default">ሐዲስ መልክአ መድኃኔዓለም</title>
+      <link type="reference" target="B066.7" />
+    </contents-item>
+
+    <contents-item id="219">
+      <title lang="default"> መልክእ በእንተ እግዝእትነ</title>
+      <link type="screen" target="74" />
+    </contents-item>
+
+    <contents-item id="220">
+      <title lang="default">መልክእ በእንተ መላእክት</title>
+      <link type="screen" target="75" />
+    </contents-item>
+
+    <contents-item id="221">
+      <title lang="default">መልክእ በእንተ ሰማዕታት</title>
+      <link type="screen" target="76" />
+    </contents-item>
+
+    <contents-item id="222">
+      <title lang="default">መልክእ በእንተ ቅዱሳን</title>
+      <link type="screen" target="77" />
+    </contents-item>
+
+    <contents-item id="223">
+      <title lang="default">ሃይማኖተ አበው ወመጽሐፈ ስንክሳር</title>
+      <title lang="en">Book of Synaxarium and Faith of Fathers</title>
+      <subtitle lang="default">የቅዱሳን አበውን የተጋድሎ ሕይወትና ጥልቅ አስትምህሮ የያዙ ዐበይት መጻሕፍት</subtitle>
+      <subtitle lang="en">Books of Synaxarium and faith of father for the annual</subtitle>
+      <image-filename>bible (7).png</image-filename>
+      <link type="screen" target="87" />
+    </contents-item>
+
+    <contents-item id="224">
+      <title lang="default">የቅዱስ እስጢፋኖስ ገድል</title>
+      <link type="reference" target="B051.20" />
+    </contents-item>
+
+    <contents-item id="225">
+      <title lang="default">መጽሐፈ ሕይወት ዘትሰመይ ልፋፈ ጽድቅ</title>
+      <link type="reference" target="B102" />
+    </contents-item>
+
+    <contents-item id="226">
+      <title lang="default">መጽሐፈ፡ ጨዋታ፡ ሥጋዊ፡ ወመንፈሳዊ።</title>
+      <link type="reference" target="B103" />
+    </contents-item>
+
+    <contents-item id="227">
+      <title lang="default">ጥበበ ሰሎሞን።</title>
+      <link type="reference" target="B104" />
+    </contents-item>
+
+    <contents-item id="228">
+      <title lang="default">ለ፫ቱ ጊዜያት የተመደበ የኪዳን ጸሎት ።</title>
+      <link type="reference" target="B105" />
+    </contents-item>
+
+    <contents-item id="229">
+      <title lang="default">የሰባቱ ዕለታት የነግህ ሊጦን </title>
+      <link type="reference" target="B106" />
+    </contents-item>
+
+    <contents-item id="230">
+      <title lang="default">መዝሙር</title>
+      <link type="reference" target="B073" />
+    </contents-item>
+
+    <contents-item id="231">
+      <title lang="default">መስተጋብእ እምሰኑይ እስከ ቀዳሚት</title>
+      <link type="reference" target="B074" />
+    </contents-item>
+
+    <contents-item id="232">
+      <title lang="default">አርባዕት እምሰኑይ እስከ ቀዳሚት ሰንበት</title>
+      <link type="reference" target="B075" />
+    </contents-item>
+
+    <contents-item id="233">
+      <title lang="default">አርያም እምሰኑይ እስከ ቀዳሚት ሰንበት</title>
+      <link type="reference" target="B077" />
+    </contents-item>
+
+    <contents-item id="234">
+      <title lang="default">ሠለስት እምሰኑይ እስከ ቀዳሚት ሰንበት</title>
+      <link type="reference" target="B078" />
+    </contents-item>
+
+    <contents-item id="235">
+      <title lang="default">ክሥተት እም ሰኑይ እስከ ቅዳሚት ሰንበት</title>
+      <link type="reference" target="B108" />
+    </contents-item>
+
+    <contents-item id="236">
+      <title lang="default">ምዕራፍ ዘመወድስ በጾም ወበአስተምህሮ</title>
+      <link type="reference" target="B109" />
+    </contents-item>
+
+    <contents-item id="237">
+      <title lang="default">ምስማክ</title>
+      <link type="reference" target="B110" />
+    </contents-item>
+
+    <contents-item id="238">
+      <title lang="default">ምዕራፍ ዘአርባዕት መወድስ</title>
+      <link type="reference" target="B111" />
+    </contents-item>
+
+    <contents-item id="239">
+      <title lang="default">ጾመ ድጓ ዘቅዱስ ያሬድ</title>
+      <link type="reference" target="B076" />
+    </contents-item>
+
+    <contents-item id="240">
+      <title lang="default">ዓቢይ ስብሐተ ነግህ</title>
+      <link type="reference" target="B112" />
+    </contents-item>
+
+    <contents-item id="241">
+      <title lang="default">ንዑስ ስብሐተ ነግህ</title>
+      <link type="reference" target="B113" />
+    </contents-item>
+
+    <contents-item id="242">
+      <title lang="default">ጸሎቱ ለጴጥሮስ</title>
+      <link type="reference" target="B107" />
+    </contents-item>
+
+    <contents-item id="243">
+      <title lang="default">መልክአ ቍርባን ። </title>
+      <link type="reference" target="B065.16" />
+    </contents-item>
+
+    <contents-item id="244">
+      <title lang="default">ገድለ ፊልጶስ</title>
+      <link type="reference" target="B047" />
+    </contents-item>
+
+    <contents-item id="245">
+      <title lang="default">መልክአ አቡ ፊልጶስ</title>
+      <link type="reference" target="B065.17" />
+    </contents-item>
+
+    <contents-item id="246">
+      <title lang="default">መልክአ አቡነ ዳንኤል</title>
+      <link type="reference" target="B065.18" />
+    </contents-item>
+
+    <contents-item id="247">
+      <title lang="default">ትምህርተ ኅቡዓት</title>
+      <link type="reference" target="B114" />
+    </contents-item>
+
+    <contents-item id="248">
+      <title lang="default">መጽሐፈ ዲድስቅልያ</title>
+      <link type="reference" target="B115" />
+    </contents-item>
+
+    <contents-item id="249">
+      <title lang="default">መጽሐፈ ቀሌሜንጦስ </title>
+      <link type="reference" target="B116" />
+    </contents-item>
+
+    <contents-item id="250">
+      <title lang="default">ተአምረ ኢየሱስ በአማርኛ</title>
+      <link type="reference" target="B117" />
+    </contents-item>
+
+    <contents-item id="251">
+      <title lang="default">ስንክሳር ዘወርኀ መስከረም</title>
+      <link type="reference" target="B118" />
+    </contents-item>
+
+    <contents-item id="252">
+      <title lang="default">ስንክሳር ዘወርኀ ጥቅምት</title>
+      <link type="reference" target="B119" />
+    </contents-item>
+
+    <contents-item id="253">
+      <title lang="default">ስንክሳር ዘወርኀ ኅዳር</title>
+      <link type="reference" target="B120" />
+    </contents-item>
+
+    <contents-item id="254">
+      <title lang="default">ስንክሳር ዘወርኀ ታኅሣሥ</title>
+      <link type="reference" target="B121" />
+    </contents-item>
+
+    <contents-item id="255">
+      <title lang="default">ስንክሳር ዘወርኀ ጥር</title>
+      <link type="reference" target="B122" />
+    </contents-item>
+
+    <contents-item id="256">
+      <title lang="default">ስንክሳር ዘወርኀ የካቲት</title>
+      <link type="reference" target="B123" />
+    </contents-item>
+
+    <contents-item id="257">
+      <title lang="default">ስንክሳር ዘወርኀ መጋቢት</title>
+      <link type="reference" target="B124" />
+    </contents-item>
+
+    <contents-item id="258">
+      <title lang="default">ስንክሳር ዘወርኀ ሚያዝያ</title>
+      <link type="reference" target="B125" />
+    </contents-item>
+
+    <contents-item id="259">
+      <title lang="default">ስንክሳር ዘወርኀ ግንቦት</title>
+      <link type="reference" target="B126" />
+    </contents-item>
+
+    <contents-item id="260">
+      <title lang="default">ስንክሳር ዘወርኀ ሰኔ</title>
+      <link type="reference" target="B127" />
+    </contents-item>
+
+    <contents-item id="261">
+      <title lang="default">ስንክሳር ዘወርኀ ሐምሌ</title>
+      <link type="reference" target="B128" />
+    </contents-item>
+
+    <contents-item id="262">
+      <title lang="default">ስንክሳር ዘወርኀ ነሐሴ</title>
+      <link type="reference" target="B129" />
+    </contents-item>
+
+    <contents-item id="263">
+      <title lang="default">ስንክሳር ዘወርኀ ጳጒሜን</title>
+      <link type="reference" target="B130" />
+    </contents-item>
+
+    <contents-item id="264">
+      <title lang="default"> የአንድምታ ትርጓሜ መጻሕፍት</title>
+      <title lang="en">Bible Commentaries</title>
+      <subtitle lang="default"> የመጽሐፍ ቅዱስ የብሉይና የሐዲስ ኪዳን አንድምታ ትርጓሜ መጻሕፍት</subtitle>
+      <subtitle lang="en">Commantaries of the four Evangelicals</subtitle>
+      <image-filename>bible (9).png</image-filename>
+      <link type="screen" target="88" />
+    </contents-item>
+
+    <contents-item id="265">
+      <title lang="default">መጽሐፈ ስንክሳር</title>
+      <subtitle lang="default">በ366ቱም ቀናት ውስጥ የሚታሰቡ ቅዱሳንን ታሪክ በየወሩ ከፋፍሎ የያዘ</subtitle>
+      <image-filename>gedles.png</image-filename>
+      <link type="screen" target="86" />
+    </contents-item>
+
+    <contents-item id="266">
+      <title lang="default">ሃይማኖተ አበው በአማርኛ</title>
+      <subtitle lang="default">የቅዱሳን አበውን  የሃይማኖት አስተምህሮ የያዘ መጽሐፍ</subtitle>
+      <image-filename>gedles.png</image-filename>
+      <link type="reference" target="B101" />
+    </contents-item>
+
+    <contents-item id="267">
+      <title lang="default">የአንድምታ ትርጓሜ መቅድም</title>
+      <link type="reference" target="B131" />
+    </contents-item>
+
+    <contents-item id="268">
+      <title lang="default">የማቴዎስ ወንጌል አንድምታ ትርጓሜ </title>
+      <link type="reference" target="B132" />
+    </contents-item>
+
+    <contents-item id="269">
+      <title lang="default">የማርቆስ ወንጌል አንድምታ ትርጓሜ </title>
+      <link type="reference" target="B133" />
+    </contents-item>
+
+    <contents-item id="270">
+      <title lang="default">የሉቃስ ወንጌል አንድምታ ትርጓሜ </title>
+      <link type="reference" target="B134" />
+    </contents-item>
+
+    <contents-item id="271">
+      <title lang="default">የዮሐንስ ወንጌል አንድምታ ትርጓሜ</title>
+      <link type="reference" target="B135" />
+    </contents-item>
+
+    <contents-item id="272">
+      <title lang="default">ዐሥሩ አቅማራት።</title>
+      <link type="reference" target="B136" />
+    </contents-item>
+
+    <contents-item id="273">
+      <title lang="default">የሆሣዕና ምንባባት</title>
+      <link type="reference" target="B138" />
+    </contents-item>
+
+    <contents-item id="274">
+      <title lang="default">የሰኞ ምንባባት</title>
+      <link type="reference" target="B139" />
+    </contents-item>
+
+    <contents-item id="275">
+      <title lang="default">የማክሰኞ ምንባባት</title>
+      <link type="reference" target="B140" />
+    </contents-item>
+
+    <contents-item id="276">
+      <title lang="default">የረቡዕ ምንባባት</title>
+      <link type="reference" target="B141" />
+    </contents-item>
+
+    <contents-item id="277">
+      <title lang="default">የኀሙስ ምንባባት</title>
+      <link type="reference" target="B142" />
+    </contents-item>
+
+    <contents-item id="278">
+      <title lang="default">የዓርብ ምንባባት ክፍል ፩</title>
+      <link type="reference" target="B143" />
+    </contents-item>
+
+    <contents-item id="279">
+      <title lang="default">የዓርብ ምንባባት ክፍል ፪</title>
+      <link type="reference" target="B144" />
+    </contents-item>
+
+    <contents-item id="280">
+      <title lang="default">የቅዳሜ ምንባባት</title>
+      <link type="reference" target="B145" />
+    </contents-item>
+
+    <contents-item id="281">
+      <title lang="default">የእሑድ ምንባባት</title>
+      <link type="reference" target="B146" />
+    </contents-item>
+
+    <contents-item id="282">
+      <title lang="default">ጸሎተ ሰብዓቱ ጊዜያት (ሰላምታ)</title>
+      <link type="reference" target="B147" />
+    </contents-item>
+
+    <contents-item id="283">
+      <title lang="default">መጽሐፈ ግብረ ሕማማት</title>
+      <subtitle lang="default">ከሆሣዕና እስከ ትንሣኤ የሚጸለዩና የሚነበቡ ከመጽሐፍ ቅዱስና ከአዋልድ መጻሕፍት የተውጣጡ መጻሕፍት</subtitle>
+      <image-filename>cross (3).png</image-filename>
+      <link type="screen" target="1" />
+    </contents-item>
+
+    <contents-item id="284">
+      <title lang="default">አጽዋማት</title>
+      <link type="reference" target="B148" />
+    </contents-item>
+
+    <contents-item id="285">
+      <title lang="default">ቅዱሳት በዓላት</title>
+      <link type="reference" target="B149" />
+    </contents-item>
+
+    <contents-item id="286">
+      <title lang="default">ሥርዓተ ጸሎት ክፍል ፩</title>
+      <link type="reference" target="B150" />
+    </contents-item>
+
+    <contents-item id="287">
+      <title lang="default">ሥርዓተ ጸሎት ክፍል ፪</title>
+      <link type="reference" target="B151" />
+    </contents-item>
+
+    <contents-item id="288">
+      <title lang="default">ሥርዓተ ስግደት</title>
+      <link type="reference" target="B152" />
+    </contents-item>
+
+    <contents-item id="289">
+      <title lang="default">ክርስቲያናዊ ሕይወት</title>
+      <link type="reference" target="B153" />
+    </contents-item>
+
+    <contents-item id="290">
+      <title lang="default">ነገረ ማርያም</title>
+      <link type="reference" target="B154" />
+    </contents-item>
+
+    <contents-item id="291">
+      <title lang="default">ነገረ ቅዱሳን መላእክት</title>
+      <link type="reference" target="B155" />
+    </contents-item>
+
+    <contents-item id="292">
+      <title lang="default">ነገረ ቅዱሳን ሰማዕታት</title>
+      <link type="reference" target="B156" />
+    </contents-item>
+
+    <contents-item id="293">
+      <title lang="default">ነገረ ቅዱሳን ነቢያት</title>
+      <link type="reference" target="B157" />
+    </contents-item>
+
+    <contents-item id="294">
+      <title lang="default">ነገረ ቅዱሳን ሐዋርያት</title>
+      <link type="reference" target="B158" />
+    </contents-item>
+
+    <contents-item id="295">
+      <title lang="default">ነገረ ቅዱሳን አበው</title>
+      <link type="reference" target="B159" />
+    </contents-item>
+
+    <contents-item id="296">
+      <title lang="default">ነገረ ቅዱሳን አንስት</title>
+      <link type="reference" target="B160" />
+    </contents-item>
+
+    <contents-item id="297">
+      <title lang="default">በእንተ ነገሥታት</title>
+      <link type="reference" target="B161" />
+    </contents-item>
+
+    <contents-item id="298">
+      <title lang="default">በእንተ ተሀድሶ</title>
+      <link type="reference" target="B162" />
+    </contents-item>
+
+    <contents-item id="299">
+      <title lang="default">ባሕረ ሐሳብ</title>
+      <link type="reference" target="B163" />
+    </contents-item>
+
+    <contents-item id="300">
+      <title lang="default">ትምህርተ ሃይማኖት</title>
+      <subtitle lang="default">በተለያዩ አርእስት ዙሪያ የተጻፉ ጦማሮችና ትምህርቶች</subtitle>
+      <image-filename>cross (4).png</image-filename>
+      <link type="screen" target="2" />
+    </contents-item>
+
+    <contents-item id="301">
+      <title lang="default">የትምህርተ ሃይማኖት ማስተማርያ መጻሕፍት</title>
+      <subtitle lang="default">ለሰንበት ትምህርት ቤቶችና ግቢ ጉባኤያት የተዘጋጁ የኮርስ መጻሕፍት</subtitle>
+      <image-filename>cross (4).png</image-filename>
+      <link type="screen" target="3" />
+    </contents-item>
+
+    <contents-item id="68">
+      <title lang="default">ሀልዎተ እግዚአብሔር</title>
+      <link type="reference" target="B087" />
+    </contents-item>
+
+    <contents-item id="69">
+      <title lang="default">ሥርዓተ ቤተክርስቲያን</title>
+      <link type="reference" target="B088" />
+    </contents-item>
+
+    <contents-item id="70">
+      <title lang="default">ትምህርተ ሃይማኖት</title>
+      <link type="reference" target="B089" />
+    </contents-item>
+
+    <contents-item id="71">
+      <title lang="default">ነገረ ቅዱሳን</title>
+      <link type="reference" target="B090" />
+    </contents-item>
+
+    <contents-item id="72">
+      <title lang="default">ነገረ ድኅነት በኢትዮጵያ ኦርቶዶክስ</title>
+      <link type="reference" target="B091" />
+    </contents-item>
+
+    <contents-item id="73">
+      <title lang="default">ነገረ ማርያም</title>
+      <link type="reference" target="B092" />
+    </contents-item>
+
+    <contents-item id="74">
+      <title lang="default">ክርስቲያናዊ ሕይወት</title>
+      <link type="reference" target="B093" />
+    </contents-item>
+
+    <contents-item id="75">
+      <title lang="default">ክርስቲያናዊ ሥነ ምግባር</title>
+      <link type="reference" target="B094" />
+    </contents-item>
+
+    <contents-item id="76">
+      <title lang="default">ክብረ ድንግል ማርያም</title>
+      <link type="reference" target="B095" />
+    </contents-item>
+
+    <contents-item id="77">
+      <title lang="default">ክብረ ድንግል</title>
+      <link type="reference" target="B096" />
+    </contents-item>
+
+    <contents-item id="78">
+      <title lang="default">ክብረ ቅዱሳን</title>
+      <link type="reference" target="B097" />
+    </contents-item>
+
+    <contents-item id="79">
+      <title lang="default">የመጽሐፍ ቅዱስ ጥናት</title>
+      <link type="reference" target="B098" />
+    </contents-item>
+
+    <contents-item id="80">
+      <title lang="default">የቤተክርስቲያን ታሪክ በአለም መድረክ</title>
+      <link type="reference" target="B099" />
+    </contents-item>
+
+    <contents-item id="86">
+      <title lang="default">የኢትዮጵያ ቤተ ክርስቲያን ታሪክ</title>
+      <link type="reference" target="B100" />
+    </contents-item>
+
+    <contents-item id="302">
+      <title lang="default">መልክአ ቂርቆስ በአማርኛ </title>
+      <link type="reference" target="B171" />
+    </contents-item>
+
+    <contents-item id="303">
+      <title lang="default">መልክአ ቂርቆስ በአማርኛ </title>
+      <link type="reference" target="B171" />
+    </contents-item>
+
+    <contents-item id="304">
+      <title lang="default">መዋሥዕት እምዮሐንስ እስከ ዮሐንስ</title>
+      <link type="reference" target="B170" />
+    </contents-item>
+
+    <contents-item id="305">
+      <title lang="default">ሃይማኖተ አበው በግእዝ</title>
+      <subtitle lang="default">የቅዱሳን አበውን  የሃይማኖት አስተምህሮ የያዘ መጽሐፍ</subtitle>
+      <link type="reference" target="B164" />
+    </contents-item>
+
+    <contents-item id="306">
+      <title lang="default">መጽሐፈ ባርቶስ በአማርኛ </title>
+      <link type="reference" target="B166" />
+    </contents-item>
+
+    <contents-item id="307">
+      <title lang="default">መጽሐፈ ቱላዳን በግእዝ</title>
+      <link type="reference" target="B167" />
+    </contents-item>
+
+    <contents-item id="308">
+      <title lang="default">ጸሎተ ንድራ</title>
+      <link type="reference" target="B168" />
+    </contents-item>
+
+    <contents-item id="309">
+      <title lang="default">እስመ ክብርት ወመልክአ ኤዶም</title>
+      <link type="reference" target="B169" />
+    </contents-item>
+
+    <contents-item id="28">
+      <title lang="default">መዝሙረ ዳዊት በግእዝ</title>
+      <link type="reference" target="B010" />
+    </contents-item>
+
+    <contents-item id="61">
+      <title lang="default">እንዚራ ስብሐት በአማርኛ</title>
+      <link type="reference" target="B028" />
+    </contents-item>
+
+    <contents-item id="62">
+      <title lang="default">ኆኅተ ብርሃን በአማርኛ</title>
+      <link type="reference" target="B029" />
+    </contents-item>
+
+    <contents-item id="63">
+      <title lang="default">መዓዛ ቅዳሴ በአማርኛ</title>
+      <link type="reference" target="B030" />
+    </contents-item>
+
+    <contents-item id="64">
+      <title lang="default">ተአምኆ ቅዱሳን በአማርኛ</title>
+      <link type="reference" target="B031" />
+    </contents-item>
+
+    <contents-item id="65">
+      <title lang="default">ውዳሴ መስቀል በአማርኛ</title>
+      <link type="reference" target="B032" />
+    </contents-item>
+
+    <contents-item id="66">
+      <title lang="default">መጽሐፈ ምሥጢር በአማርኛ</title>
+      <link type="reference" target="B033" />
+    </contents-item>
+
+    <contents-item id="310">
+      <title lang="default">እንዚራ ስብሐት በግእዝ</title>
+      <link type="reference" target="B165" />
+    </contents-item>
+
+    <contents-item id="311">
+      <title lang="default">ተአምኆ ቅዱሳን በግእዝ</title>
+      <link type="reference" target="B172" />
+    </contents-item>
+
+    <contents-item id="312">
+      <title lang="default">ውዳሴ መስቀል በግእዝ</title>
+      <link type="reference" target="B173" />
+    </contents-item>
+
+    <contents-item id="56">
+      <title lang="default">መጽሐፈ ባርቶስ በግእዝ</title>
+      <link type="reference" target="B017" />
+    </contents-item>
+  </contents-items>
+
+  <contents-screens>
+    <contents-screen id="59">
+      <title lang="default">Home</title>
+      <items>
+        <item id="1" />
+        <item id="2" />
+        <item id="3" />
+        <item id="4" />
+        <item id="81" />
+        <item id="5" />
+        <item id="223" />
+        <item id="6" />
+        <item id="7" />
+        <item id="264" />
+        <item id="283" />
+        <item id="10" />
+        <item id="8" />
+        <item id="82" />
+        <item id="9" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="87">
+      <title lang="default">Haymanote abew wesinkisar</title>
+      <items>
+        <item id="265" />
+        <item id="266" />
+        <item id="305" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="85">
+      <title lang="default">Timihirte Haymanot</title>
+      <items>
+        <item id="300" />
+        <item id="301" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="60">
+      <title lang="default">Prayers</title>
+      <items>
+        <item id="47" />
+        <item id="44" />
+        <item id="22" />
+        <item id="23" />
+        <item id="24" />
+        <item id="45" />
+        <item id="25" />
+        <item id="26" />
+        <item id="46" />
+        <item id="21" />
+        <item id="57" />
+        <item id="58" />
+        <item id="59" />
+        <item id="83" />
+        <item id="84" />
+        <item id="228" />
+        <item id="229" />
+        <item id="56" />
+        <item id="306" />
+        <item id="307" />
+        <item id="308" />
+        <item id="309" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="61">
+      <title lang="default">Melks</title>
+      <items>
+        <item id="11" />
+        <item id="12" />
+        <item id="219" />
+        <item id="220" />
+        <item id="221" />
+        <item id="222" />
+        <item id="33" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="62">
+      <title lang="default">Song Books</title>
+      <items>
+        <item id="239" />
+        <item id="230" />
+        <item id="304" />
+        <item id="231" />
+        <item id="232" />
+        <item id="233" />
+        <item id="234" />
+        <item id="235" />
+        <item id="236" />
+        <item id="237" />
+        <item id="238" />
+        <item id="240" />
+        <item id="241" />
+        <item id="247" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="63">
+      <title lang="default">Gedle and Dirsan</title>
+      <items>
+        <item id="105" />
+        <item id="106" />
+        <item id="107" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="64">
+      <title lang="default">Dirsanat</title>
+      <items>
+        <item id="89" />
+        <item id="90" />
+        <item id="91" />
+        <item id="92" />
+        <item id="93" />
+        <item id="94" />
+        <item id="95" />
+        <item id="96" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="65">
+      <title lang="default">Gedles</title>
+      <items>
+        <item id="97" />
+        <item id="98" />
+        <item id="99" />
+        <item id="100" />
+        <item id="101" />
+        <item id="102" />
+        <item id="103" />
+        <item id="104" />
+        <item id="244" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="66">
+      <title lang="default">Gedle Semaetat</title>
+      <items>
+        <item id="193" />
+        <item id="194" />
+        <item id="195" />
+        <item id="196" />
+        <item id="197" />
+        <item id="198" />
+        <item id="199" />
+        <item id="200" />
+        <item id="201" />
+        <item id="202" />
+        <item id="203" />
+        <item id="204" />
+        <item id="205" />
+        <item id="206" />
+        <item id="207" />
+        <item id="208" />
+        <item id="209" />
+        <item id="210" />
+        <item id="211" />
+        <item id="224" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="67">
+      <title lang="default">Sireat</title>
+      <items>
+        <item id="248" />
+        <item id="249" />
+        <item id="40" />
+        <item id="41" />
+        <item id="39" />
+        <item id="50" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="68">
+      <title lang="default">Hymn Books</title>
+      <items>
+        <item id="34" />
+        <item id="35" />
+        <item id="54" />
+        <item id="55" />
+        <item id="53" />
+        <item id="36" />
+        <item id="37" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="69">
+      <title lang="default">Teamirat</title>
+      <items>
+        <item id="250" />
+        <item id="42" />
+        <item id="49" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="70">
+      <title lang="default">Bibliographies</title>
+      <items>
+        <item id="43" />
+        <item id="52" />
+        <item id="67" />
+        <item id="87" />
+        <item id="88" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="71">
+      <title lang="default">Kines</title>
+      <items>
+        <item id="48" />
+        <item id="38" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="72">
+      <title lang="default">Tibeb</title>
+      <items>
+        <item id="51" />
+        <item id="225" />
+        <item id="226" />
+        <item id="227" />
+        <item id="242" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="73">
+      <title lang="default">Melk Beinte Egziene</title>
+      <items>
+        <item id="125" />
+        <item id="126" />
+        <item id="127" />
+        <item id="128" />
+        <item id="129" />
+        <item id="130" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="74">
+      <title lang="default">Melk Beinte Egzietine</title>
+      <items>
+        <item id="131" />
+        <item id="132" />
+        <item id="133" />
+        <item id="134" />
+        <item id="135" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="75">
+      <title lang="default">Melk Beinte Melaikt</title>
+      <items>
+        <item id="136" />
+        <item id="137" />
+        <item id="138" />
+        <item id="139" />
+        <item id="140" />
+        <item id="141" />
+        <item id="142" />
+        <item id="143" />
+        <item id="144" />
+        <item id="145" />
+        <item id="146" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="76">
+      <title lang="default">Melk Beinte Seamaitat</title>
+      <items>
+        <item id="147" />
+        <item id="148" />
+        <item id="149" />
+        <item id="150" />
+        <item id="151" />
+        <item id="152" />
+        <item id="153" />
+        <item id="154" />
+        <item id="155" />
+        <item id="156" />
+        <item id="157" />
+        <item id="158" />
+        <item id="302" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="77">
+      <title lang="default">Melk Zekidusan</title>
+      <items>
+        <item id="159" />
+        <item id="160" />
+        <item id="161" />
+        <item id="162" />
+        <item id="163" />
+        <item id="164" />
+        <item id="165" />
+        <item id="166" />
+        <item id="167" />
+        <item id="168" />
+        <item id="169" />
+        <item id="170" />
+        <item id="171" />
+        <item id="172" />
+        <item id="173" />
+        <item id="174" />
+        <item id="175" />
+        <item id="176" />
+        <item id="177" />
+        <item id="178" />
+        <item id="179" />
+        <item id="180" />
+        <item id="181" />
+        <item id="182" />
+        <item id="183" />
+        <item id="184" />
+        <item id="185" />
+        <item id="186" />
+        <item id="187" />
+        <item id="188" />
+        <item id="189" />
+        <item id="190" />
+        <item id="191" />
+        <item id="192" />
+        <item id="243" />
+        <item id="245" />
+        <item id="246" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="78">
+      <title lang="default">Mezmure Kristos</title>
+      <items>
+        <item id="212" />
+        <item id="213" />
+        <item id="214" />
+        <item id="215" />
+        <item id="216" />
+        <item id="217" />
+        <item id="218" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="79">
+      <title lang="default">Melk Amharic</title>
+      <items>
+        <item id="108" />
+        <item id="109" />
+        <item id="110" />
+        <item id="111" />
+        <item id="112" />
+        <item id="113" />
+        <item id="114" />
+        <item id="115" />
+        <item id="116" />
+        <item id="117" />
+        <item id="118" />
+        <item id="119" />
+        <item id="120" />
+        <item id="121" />
+        <item id="122" />
+        <item id="123" />
+        <item id="124" />
+        <item id="303" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="80">
+      <title lang="default">Yezewetir Tselot</title>
+      <items>
+        <item id="13" />
+        <item id="14" />
+        <item id="15" />
+        <item id="16" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="81">
+      <title lang="default">Wudasie Mariam</title>
+      <items>
+        <item id="19" />
+        <item id="17" />
+        <item id="18" />
+        <item id="20" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="82">
+      <title lang="default">Mezmure Dawit</title>
+      <items>
+        <item id="27" />
+        <item id="28" />
+        <item id="29" />
+        <item id="30" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="83">
+      <title lang="default">Tselote Nebiyat</title>
+      <items>
+        <item id="32" />
+        <item id="31" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="84">
+      <title lang="default">Aba Giyorgis</title>
+      <items>
+        <item id="60" />
+        <item id="85" />
+        <item id="61" />
+        <item id="62" />
+        <item id="63" />
+        <item id="64" />
+        <item id="65" />
+        <item id="66" />
+        <item id="310" />
+        <item id="311" />
+        <item id="312" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="86">
+      <title lang="default">Sinksar</title>
+      <items>
+        <item id="251" />
+        <item id="252" />
+        <item id="253" />
+        <item id="254" />
+        <item id="255" />
+        <item id="256" />
+        <item id="257" />
+        <item id="258" />
+        <item id="259" />
+        <item id="260" />
+        <item id="261" />
+        <item id="262" />
+        <item id="263" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="88">
+      <title lang="default">Andimta</title>
+      <items>
+        <item id="267" />
+        <item id="268" />
+        <item id="269" />
+        <item id="270" />
+        <item id="271" />
+        <item id="272" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="1">
+      <title lang="default">Hmamat</title>
+      <items>
+        <item id="273" />
+        <item id="274" />
+        <item id="275" />
+        <item id="276" />
+        <item id="277" />
+        <item id="278" />
+        <item id="279" />
+        <item id="280" />
+        <item id="281" />
+        <item id="282" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="2">
+      <title lang="default">TH</title>
+      <items>
+        <item id="284" />
+        <item id="285" />
+        <item id="286" />
+        <item id="287" />
+        <item id="288" />
+        <item id="289" />
+        <item id="290" />
+        <item id="291" />
+        <item id="292" />
+        <item id="293" />
+        <item id="294" />
+        <item id="295" />
+        <item id="296" />
+        <item id="297" />
+        <item id="298" />
+        <item id="299" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="3">
+      <title lang="default">coarse</title>
+      <items>
+        <item id="68" />
+        <item id="69" />
+        <item id="70" />
+        <item id="72" />
+        <item id="71" />
+        <item id="73" />
+        <item id="74" />
+        <item id="75" />
+        <item id="76" />
+        <item id="77" />
+        <item id="78" />
+        <item id="79" />
+        <item id="80" />
+        <item id="86" />
+      </items>
+    </contents-screen>
+  </contents-screens>
+</contents>
