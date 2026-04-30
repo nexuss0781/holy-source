@@ -1,0 +1,121 @@
+\c 26 
+
+\s1 የባሕር ሐሳብ ሠንጠረዥ
+\b 
+\tr \tc1 ዓመተምህረት\tc2 ወንጌላዊ\tc3 የዘመንመለወጫ\tc4 ወንበር
+\tr \tc1 ፳፻፪\tc2 2002\tc3 ማርቆስ\tc4 ዓርብ\tc5 ፲፭\tc6 15
+\tr \tc1 ፳፻፫\tc2 2003\tc3 ሉቃስ\tc4 ቅዳሜ\tc5 ፲፮\tc6 16
+\tr \tc1 ፲፻፬\tc2 2004\tc3 ዮሐንስ \tc4 ሰኞ\tc5 ፲፯\tc6 17
+\tr \tc1 ፳፻፭\tc2 2005\tc3 ማቴዎስ\tc4 ማክሰኞ\tc5 ፲፰\tc6 18
+\tr \tc1 ፳፻፮\tc2 2006\tc3 ማርቆስ\tc4 ዕረቡ\tc5 አልቦ
+\tr \tc1 ፳፻፯\tc2 2007\tc3 ሉቃስ\tc4 ሐሙስ\tc5 ፩\tc6 1
+\tr \tc1 ፳፻፰\tc2 2008\tc3 ዮሐንስ\tc4 ቅዳሜ\tc5 ፪\tc6 2
+\tr \tc1 ፳፻፱\tc2 2009\tc3 ማቴዎስ\tc4 እሁድ\tc5 ፫\tc6 3
+\tr \tc1 ፳፻፲\tc2 2010\tc3 ማርቆስ\tc4 ሰኞ\tc5 ፬\tc6 4
+\tr \tc1 ፳፻፲፩\tc2 2011\tc3 ሉቃስ\tc4 ማክሰኞ\tc5 ፭\tc6 5
+\tr \tc1 ፳፻፲፪\tc2 2012\tc3 ዮሐንስ\tc4 ሐሙስ\tc5 ፮\tc6 6
+\tr \tc1 ፳፻፲፫\tc2 2013\tc3 ማቴዎስ\tc4 ዓርብ\tc5 ፯\tc6 7
+\tr \tc1 ፳፻፲፬\tc2 2014\tc3 ማርቆስ\tc4 ቅዳሜ\tc5 ፰\tc6 8
+\tr \tc1 ፳፻፲፭\tc2 2015\tc3 ሉቃስ\tc4 እሁድ \tc5 ፱\tc6 9
+\tr \tc1 ፳፻፲፮\tc2 2016\tc3 ዮሐንስ\tc4 ማክሰኞ\tc5 ፲\tc6 14
+\tr \tc1 ፳፻፲፯\tc2 2017\tc3 ማቴዎስ\tc4 ረቡዕ\tc5 ፲፩\tc6 11
+\tr \tc1 ፳፻፲፰\tc2 2018\tc3 ማርቆስ\tc4 ሐሙስ\tc5 ፲፪\tc6 12
+\b 
+\b 
+\b 
+\b 
+\tr \tc1 አበቅቴ\tc2 መጥበቅዕ\tc3 መባጃሐመር\tc4 ጾመ ነነዌ
+\tr \tc1 ፲፭\tc2 15\tc3 ፲፭\tc4 15\tc5 ፲፯\tc6 17\tc7 ጥር\bd     \bd*፲፯\tc8 17
+\tr \tc1 ፳፮\tc2 26\tc3 ፬\tc4 4\tc5 ፯\tc6 7\tc7 የካ\bd      \bd*፯\tc8 7
+\tr \tc1 ፯\tc2 7\tc3 ፳፫\tc4 23\tc5 ፳፰\tc6 28\tc7 ጥር\bd     \bd*፳፰\tc8 28
+\tr \tc1 ፲፰\tc2 18\tc3 ፲፪\tc4 12\tc5 ፲፰\tc6 18\tc7 የካ\bd     \bd*፲፰\tc8 18
+\tr \tc1 \bd  \bd* አልቦ\tc2 \bd   \bd*አልቦ\tc3 ፫\tc4 3\tc5  የካ\bd     \bd*፫\tc6 3
+\tr \tc1 ፲፩\tc2 11\tc3 ፲፱\tc4 19\tc5 ፳፭\tc6 25\tc7 ጥር\bd     \bd*፳፭\tc8 25
+\tr \tc1 ፳፪\tc2 22\tc3 ፰\tc4 8\tc5 ፲፬\tc6 14\tc7 የካ\bd     \bd* ፲፬\tc8 14
+\tr \tc1 ፫\tc2 3\tc3 ፳፯\tc4 27\tc5 ፳፱\tc6 29\tc7 ጥር\bd     \bd*፳፱\tc8 29
+\tr \tc1 ፲፬\tc2 14\tc3 ፲፮\tc4 16\tc5 ፳፩\tc6 21\tc7 ጥር\bd     \bd*፳፩\tc8 21
+\tr \tc1 ፳፭\tc2 25\tc3 ፭\tc4 5\tc5 ፲፩\tc6 11\tc7 የካ\bd     \bd* ፲፩\bd  \bd*\tc8 11
+\tr \tc1 ፮\tc2 6\tc3 ፳፬\tc4 24\tc5 ፪\tc6 2\tc7 ጥር\bd     \bd*፪\tc8 2
+\tr \tc1 ፲፯\tc2 17\tc3 ፲፫\tc4 13\tc5 ፲፭\tc6 15\tc7 የካ\bd     \bd*፲፭\tc8 15
+\tr \tc1 ፳፰\tc2 28\tc3 ፪\tc4 2\tc5 ፯\tc6 7\tc7 የካ\bd     \bd* ፯\tc8 7
+\tr \tc1 ፱\tc2 9\tc3 ፳፩\tc4 21\tc5 ፳፱\tc6 29\tc7 ጥር\bd     \bd*፳፱\tc8 29
+\tr \tc1 ፳\tc2 20\tc3 ፲\tc4 10\tc5 ፲፰\tc6 18\tc7 መጋ\bd    \bd* ፲፰\tc8 18
+\tr \tc1 ፩\tc2 1\tc3 ፳፱\tc4 29\tc5 ፫\tc6 3\tc7 የካ\bd     \bd* ፫\tc8 3
+\tr \tc1 ፲፪\tc2 12\tc3 ፲፰\tc4 18\tc5 ፳፭\tc6 25\tc7 የካ\bd     \bd*፳፭\tc8 25
+\b 
+\b 
+\b 
+\b 
+\b 
+\b 
+\b 
+\tr \tc1 ዓቢይ ጾም \tc2 ደብረ ዘይት\tc3 ሆሣዕና
+\tr \tc1 የካ\bd     \bd* ፩\tc2 1\tc3 የካ\bd      \bd*፳፰\tc4 28\tc5 መጋ\bd     \bd* ፲፱\tc6 19
+\tr \tc1 የካ\bd     \bd*፳፩\tc2 21\tc3 መጋ\bd     \bd* ፲፰\tc4 18\tc5 ሚያ\bd      \bd*፱\tc6 9
+\tr \tc1 የካ\bd     \bd*፲፪\tc2 12\tc3 መጋ\bd      \bd*፭\tc4 5\tc5 መጋ\bd      \bd*፴\tc6 30
+\tr \tc1 መጋ\bd     \bd*፪\tc2 2\tc3 መጋ\bd     \bd* ፳፱\tc4 29\tc5 ሚያ\bd      \bd*፳\tc6 20
+\tr \tc1 የካ\bd     \bd*፲፯\tc2 17\tc3 መጋ\bd      \bd*፲፬\tc4 14\tc5 ሚያ\bd      \bd*፭\tc6 5
+\tr \tc1 የካ\bd     \bd*፱\tc2 9\tc3 መጋ\bd      \bd*፮\tc4 6\tc5 መጋ\bd      \bd*፳\tc6 20
+\tr \tc1 የካ\bd     \bd*፳\tc2 20\tc3 መጋ\bd     \bd* ፳፭\tc4 25\tc5 ሚያ\bd     \bd*፲፮\tc6 16
+\tr \tc1 የካ\bd    \bd* ፲፫\tc2 13\tc3 መጋ\bd     \bd* ፲\tc4 10\tc5 ሚያ\bd     \bd* ፩\tc6 1
+\tr \tc1 የካ\bd     \bd*፭\tc2 5\tc3 መጋ\bd      \bd*፪\tc4 2\tc5 መጋ\bd     \bd* ፳፫\tc6 23
+\tr \tc1 የካ\bd    \bd* ፳፭\tc2 25\tc3 መጋ\bd     \bd* ፳፪\tc4 22\tc5 ሚያ\bd     \bd* ፲፫\tc6 13
+\tr \tc1 የካ\bd    \bd* ፲፮ \tc2 16\tc3 መጋ\bd     \bd* ፲፫\tc4 13\tc5 ሚያ\bd      \bd*፬\tc6 4
+\tr \tc1 የካ\bd    \bd* ፳፱\tc2 29\tc3 መጋ\bd     \bd* ፳፮\tc4 26\tc5 ሚያ\bd     \bd* ፲፯\tc6 17
+\tr \tc1 የካ\bd    \bd* ፳፩\tc2 21\tc3 መጋ\bd     \bd* ፲፰\tc4 18\tc5 ሚያ\bd      \bd*፱\bd  \bd*\tc6 9
+\tr \tc1 የካ\bd    \bd* ፲፫\tc2 13\tc3 መጋ\bd      \bd*፲\tc4 10\tc5 ሚያ\bd      \bd*፩\tc6 1
+\tr \tc1 መጋ\bd     \bd*፪\tc2 2\tc3 መጋ\bd     \bd* ፳፱\tc4 29\tc5 ሚያ\bd      \bd*፳\tc6 20
+\tr \tc1 የካ\bd     \bd*፲፯\tc2 17\tc3 መጋ\bd      \bd*፲፬\tc4 14\tc5 ሚያ\bd      \bd*፭\tc6 5
+\tr \tc1 የካ\bd     \bd* ፱\tc2 9\tc3 መጋ\bd      \bd* ፮ \tc4 6\tc5 መጋ\bd     \bd* ፳፯\tc6 27
+\b 
+\b 
+\b 
+\b 
+\tr \tc1 ስቅለት\tc2 ተንሣኤ\tc3 ርክበ ካህናተ
+\tr \tc1 መጋ\bd    \bd* ፳፬\tc2 24\tc3 መጋ\bd     \bd*፳፮\tc4 26\tc5 ሚያ\bd     \bd*፳\tc6 20
+\tr \tc1 ሚያ\bd    \bd* ፲፬\tc2 14\tc3 ሚያ\bd     \bd*፲፮\tc4 16\tc5 ግን\bd     \bd* ፲\tc6 10
+\tr \tc1 ሚያ\bd     \bd*፭\tc2 5\tc3 ሚያ\bd      \bd*፯\tc4 7\tc5 ግን\bd     \bd* ፩\tc6 1
+\tr \tc1 ሚያ\bd     \bd*፳፭\tc2 25\tc3 ሚያ\bd     \bd*፳፯\tc4 27\tc5 ግን\bd     \bd*፳፩\tc6 21
+\tr \tc1 ሚያ\bd     \bd*፲\tc2 10\tc3 ሚያ\bd     \bd*፲፪\tc4 12\tc5 ግን\bd     \bd* ፮\tc6 6
+\tr \tc1 ሚያ\bd     \bd*፪\tc2 2\tc3 ሚያ\bd      \bd*፪\tc4 4\tc5 ግን\bd    \bd* ፳፰\bd  \bd*\tc6 28
+\tr \tc1 ሚያ\bd     \bd*፳፩\tc2 21\tc3 ሚያ\bd     \bd* ፳፫\tc4 23\tc5 ግን\bd    \bd* ፲፯\tc6 17
+\tr \tc1 ሚያ\bd     \bd*፮\tc2 6\tc3 ሚያ\bd      \bd*፰\tc4 8\tc5 ግን\bd     \bd* ፪\tc6 2
+\tr \tc1 መጋ\bd    \bd* ፳፰\tc2 28\tc3 ሚያ\bd      \bd*፴\tc4 30\tc5 ሚያ\bd    \bd* ፳፬\tc6 24
+\tr \tc1 ሚያ\bd    \bd* ፲፰\tc2 18\tc3 ሚያ\bd      \bd*፳\tc4 20\tc5 ግን\bd     \bd*፲፬\tc6 14
+\tr \tc1 ሚያ\bd     \bd*፱\tc2 9\tc3 ሚያ\bd      \bd*፲፩\tc4 11\tc5 ግን\bd     \bd*፭\tc6 5
+\tr \tc1 ሚያ\bd    \bd* ፳፪\tc2 22\tc3 ሚያ\bd     \bd* ፳፬\tc4 24\tc5 ግን\bd     \bd*፲፰\tc6 18
+\tr \tc1 ሚያ\bd    \bd* ፲፬\tc2 14\tc3 ሚያ\bd     \bd* ፲፮\tc4 16\tc5 ግን\bd     \bd* ፲\tc6 10
+\tr \tc1 ሚያ\bd     \bd*፮\tc2 6\tc3 ሚያ\bd     \bd* ፰\tc4 8\tc5 ግን\bd     \bd* ፪\tc6 2
+\tr \tc1 ሚያ\bd    \bd* ፳፭\tc2 25\tc3 ሚያ\bd     \bd* ፳፯\tc4 27\tc5 ግን\bd     \bd*፳፩\tc6 21
+\tr \tc1 ሚያ\bd     \bd*፲\tc2 10\tc3 ሚያ\bd     \bd* ፲፪\tc4 12\tc5 ግን\bd     \bd* ፮\tc6 6
+\tr \tc1 ሚያ\bd     \bd* ፪\tc2 2\tc3 ሚያ\bd      \bd*፬\tc4 4\tc5 ሚያ\bd    \bd* ፳፰\tc6 28
+\b 
+\b 
+\b 
+\b 
+\b 
+\b 
+\b 
+\tr \tc1 ዕርገት\tc2 በዓለጰራቅሊጦስ\tc3 ጾመሐዋርያት\tc4 ጾመድኅነት
+\tr \tc1 ግን\bd     \bd* ፭\tc2 5\tc3 ግን\bd    \bd*፲፭\tc4 15\tc5 ግን\bd   \bd* ፲፮\tc6 16\tc7 ግን\bd    \bd*፲፰\tc8 18
+\tr \tc1 ግን\bd    \bd* ፳፭\tc2 25\tc3 ሰኔ\bd    \bd*፭\tc4 5\tc5 ሰኔ\bd    \bd*፮\tc6 6\tc7 ሰኔ\bd    \bd* ፰\tc8 8
+\tr \tc1 ግን\bd    \bd* ፲፮\tc2 16\tc3 ሰኔ\bd    \bd*፳፮\tc4 26\tc5 ግን\bd   \bd* ፳፯\tc6 27\tc7 ግን\bd   \bd* ፳፱\tc8 29
+\tr \tc1 ሰኔ\bd     \bd* ፮\tc2 6\tc3 ሰኔ\bd    \bd*፲፮\tc4 16\tc5 ሰኔ\bd   \bd* ፲፯\tc6 17\tc7 ሰኔ\bd    \bd*፲፱\tc8 19
+\tr \tc1 ግን\bd     \bd*፳፩\tc2 21\tc3 ሰኔ\bd    \bd* ፩\tc4 1\tc5 ሰኔ\bd    \bd*፪\tc6 2\tc7 ሰኔ\bd    \bd*፬\tc8 4
+\tr \tc1 ግን\bd     \bd* ፲፫\tc2 13\tc3 ግን\bd    \bd*፳፫\tc4 23\tc5 ግን\bd   \bd* ፳፬\tc6 24\tc7 ግን\bd   \bd* ፳፮\tc8 26
+\tr \tc1 ሰኔ\bd     \bd* ፪\tc2 2\tc3 ሰኔ\bd    \bd*፲፪\tc4 12\tc5 ሰኔ\bd   \bd* ፲፫\tc6 13\tc7 ሰኔ\bd    \bd*፲፭\tc8 15
+\tr \tc1 ግን\bd     \bd* ፲፯\tc2 17\tc3 ግን\bd    \bd*፳፯\tc4 27\tc5 ግን\bd   \bd* ፳፰\tc6 28\tc7 ግን\bd    \bd*፴\tc8 30
+\tr \tc1 ግን\bd     \bd* ፱\tc2 9\tc3 ግን\bd    \bd* ፲፱\tc4 19\tc5 ግን\bd   \bd* ፳\tc6 20\tc7 ግን\bd   \bd* ፳፪\tc8 22
+\tr \tc1 ግን\bd     \bd*፳፱\tc2 29\tc3 ሰኔ\bd    \bd* ፱\tc4 9\tc5 ሰኔ\bd    \bd*፲\tc6 10\tc7 ሰኔ\bd    \bd* ፲፪\tc8 12
+\tr \tc1 ግን\bd     \bd* ፳\bd  \bd* \tc2 20\tc3 ግን\bd     \bd*፴\tc4 30\tc5 ሰኔ\bd    \bd*፩\tc6 1\tc7 ሰኔ\bd    \bd* ፫\tc8 3
+\tr \tc1 ሰኔ\bd     \bd* ፫\tc2 3\tc3 ግን\bd    \bd* ፲፫ \tc4 13\tc5 ሰኔ\bd   \bd* ፲፬\tc6 14\tc7 ሰኔ\bd   \bd* ፲፮\tc8 16
+\tr \tc1 ግን\bd     \bd*፳፭\tc2 25\tc3 ሰኔ\bd    \bd* ፭\tc4 5\tc5 ሰኔ\bd    \bd*፮\tc6 6\tc7 ሰኔ\bd    \bd* ፰\tc8 8
+\tr \tc1 ግን\bd     \bd* ፲፯\tc2 17\tc3 ግን\bd    \bd*፳፯\tc4 27\tc5 ግን\bd   \bd* ፳፰\tc6 28\tc7 ሰኔ\bd    \bd* ፴\tc8 30
+\tr \tc1 ሰኔ\bd     \bd* ፮\tc2 6\tc3 ሰኔ\bd    \bd* ፲፮\tc4 16\tc5 ሰኔ\bd   \bd* ፲፯\tc6 17\tc7 ግን\bd    \bd*፲፱\tc8 19
+\tr \tc1 ግን\bd    \bd* ፳፩\tc2 21\tc3 ሰኔ\bd    \bd*፩\tc4 1\tc5 ሰኔ\bd    \bd*፪\tc6 2\tc7 ሰኔ\bd    \bd* ፬\tc8 4
+\tr \tc1 ግን\bd     \bd*፫\tc2 3\tc3 ግን\bd    \bd*፳፫\tc4 23\tc5 ግን\bd   \bd* ፳፬\tc6 24\tc7 ግን\bd    \bd*፳፮\tc8 26
+\m \bd  \bd* 
+\b 
+\b 
+\b 
+\b 
